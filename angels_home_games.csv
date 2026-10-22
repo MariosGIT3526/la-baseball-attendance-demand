@@ -1,0 +1,487 @@
+team,game_pk,season,official_date,game_datetime_utc,day_night,double_header,game_number,status,venue_name,opponent,series_game_number,games_in_series,team_wins,team_losses,opp_wins,opp_losses,team_score,opp_score,team_won,attendance,weather_raw,wind_raw,first_pitch_raw,game_time_raw
+angels,634655,2021,2021-04-01,2021-04-02T02:05:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,1,4,1,0,0,1,4.0,3.0,True,13207,"81 degrees, Partly Cloudy.","6 mph, Out To CF.",7:07 PM.,2:51.
+angels,634631,2021,2021-04-02,2021-04-03T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,2,4,1,1,1,1,8.0,12.0,False,12763,"66 degrees, Clear.","10 mph, Out To LF.",6:39 PM.,3:44.
+angels,634646,2021,2021-04-03,2021-04-04T01:07:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,3,4,2,1,1,2,5.0,3.0,True,12043,"71 degrees, Clear.","10 mph, Out To CF.",6:07 PM.,3:04.
+angels,634637,2021,2021-04-04,2021-04-05T00:37:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,4,4,3,1,1,3,7.0,4.0,True,12396,"72 degrees, Partly Cloudy.","13 mph, Out To LF.",5:39 PM.,3:56.
+angels,634552,2021,2021-04-05,2021-04-06T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,2,4,1,4,1,7.0,6.0,True,13447,"65 degrees, Partly Cloudy.","10 mph, R To L.",6:38 PM.,4:01.
+angels,634586,2021,2021-04-06,2021-04-06T20:07:00Z,day,N,1,Final,Angel Stadium,Houston Astros,2,2,4,2,5,1,2.0,4.0,False,11122,"70 degrees, Partly Cloudy.","8 mph, Out To LF.",1:08 PM.,2:47.
+angels,634526,2021,2021-04-16,2021-04-17T01:38:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,1,1,8,5,6,8,10.0,3.0,True,13428,"64 degrees, Clear.","11 mph, Out To CF.",6:39 PM.,3:08.
+angels,634465,2021,2021-05-20,2021-04-18T01:07:00Z,night,N,1,Postponed,Angel Stadium,Minnesota Twins,2,3,19,24,14,28,,,,9920,"70 degrees, Partly Cloudy.","10 mph, Out To CF.",1:08 PM.,1:55.
+angels,634441,2021,2021-05-20,2021-04-18T20:07:00Z,day,N,1,Postponed,Angel Stadium,Minnesota Twins,2,2,19,24,14,28,,,,9820,"71 degrees, Partly Cloudy.","13 mph, Out To CF.",4:09 PM.,2:49.
+angels,634536,2021,2021-04-19,2021-04-20T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,3,8,6,8,9,4.0,6.0,False,11396,"75 degrees, Clear.","8 mph, Out To LF.",6:38 PM.,3:15.
+angels,634398,2021,2021-04-20,2021-04-21T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,3,9,6,8,10,6.0,2.0,True,12544,"62 degrees, Partly Cloudy.","11 mph, R To L.",6:38 PM.,2:52.
+angels,634430,2021,2021-04-21,2021-04-21T20:07:00Z,day,N,1,Final,Angel Stadium,Texas Rangers,3,3,9,7,9,10,4.0,7.0,False,9207,"64 degrees, Cloudy.","8 mph, Out To CF.",1:07 PM.,3:20.
+angels,634334,2021,2021-05-03,2021-05-04T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,1,4,13,14,15,15,3.0,7.0,False,10641,"74 degrees, Clear.","6 mph, R To L.",6:39 PM.,3:31.
+angels,634267,2021,2021-05-04,2021-05-05T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,2,4,13,15,16,15,3.0,8.0,False,8152,"73 degrees, Clear.","10 mph, Out To LF.",6:40 PM.,3:29.
+angels,634281,2021,2021-05-05,2021-05-06T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,3,4,13,16,17,15,1.0,3.0,False,9169,"74 degrees, Clear.","8 mph, R To L.",6:40 PM.,3:16.
+angels,634247,2021,2021-05-06,2021-05-07T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,4,4,13,17,18,15,3.0,8.0,False,8840,"65 degrees, Clear.","13 mph, Out To CF.",6:38 PM.,3:03.
+angels,634213,2021,2021-05-07,2021-05-08T01:38:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,1,3,14,17,17,16,9.0,2.0,True,15316,"66 degrees, Clear.","11 mph, Out To CF.",6:40 PM.,3:05.
+angels,634262,2021,2021-05-08,2021-05-09T01:07:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,2,3,14,18,18,16,11.0,14.0,False,15274,"70 degrees, Clear.","10 mph, Out To CF.",6:08 PM.,4:03.
+angels,634205,2021,2021-05-09,2021-05-09T20:07:00Z,day,N,1,Final,Angel Stadium,Los Angeles Dodgers,3,3,15,18,18,17,2.0,1.0,True,15294,"66 degrees, Cloudy.","8 mph, R To L.",1:09 PM.,3:26.
+angels,634101,2021,2021-05-17,2021-05-18T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Indians,1,3,18,22,21,18,7.0,4.0,True,9527,"66 degrees, Cloudy.","8 mph, Out To CF.",6:39 PM.,3:23.
+angels,634102,2021,2021-05-18,2021-05-19T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Indians,2,3,18,23,22,18,5.0,6.0,False,9491,"70 degrees, Clear.","11 mph, Out To LF.",6:39 PM.,2:48.
+angels,634029,2021,2021-05-19,2021-05-20T00:07:00Z,night,N,1,Final,Angel Stadium,Cleveland Indians,3,3,18,24,23,18,2.0,3.0,False,10378,"72 degrees, Clear.","11 mph, Out To CF.",5:08 PM.,3:05.
+angels,634028,2021,2021-05-21,2021-05-22T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,1,3,19,26,27,19,4.0,8.0,False,14624,"64 degrees, Clear.","16 mph, Out To CF.",6:39 PM.,3:15.
+angels,634000,2021,2021-05-22,2021-05-23T02:07:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,2,3,19,27,28,19,2.0,6.0,False,15151,"64 degrees, Clear.","6 mph, Out To CF.",7:07 PM.,3:02.
+angels,633985,2021,2021-05-23,2021-05-23T20:07:00Z,day,N,1,Final,Angel Stadium,Oakland Athletics,3,3,20,27,28,20,6.0,5.0,True,15154,"73 degrees, Sunny.","9 mph, Out To CF.",1:06 PM.,3:21.
+angels,633972,2021,2021-05-25,2021-05-26T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,2,21,27,22,28,11.0,5.0,True,10987,"76 degrees, Cloudy.","8 mph, R To L.",6:38 PM.,2:59.
+angels,633940,2021,2021-05-26,2021-05-26T20:07:00Z,day,N,1,Final,Angel Stadium,Texas Rangers,2,2,22,27,22,29,9.0,8.0,True,8547,"75 degrees, Sunny.","11 mph, Out To LF.",1:09 PM.,3:14.
+angels,633832,2021,2021-06-03,2021-06-04T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,4,25,31,29,29,2.0,6.0,False,9714,"69 degrees, Clear.","7 mph, R To L.",6:39 PM.,3:26.
+angels,633837,2021,2021-06-04,2021-06-05T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,4,26,31,29,30,3.0,2.0,True,15141,"69 degrees, Clear.","10 mph, Out To CF.",6:39 PM.,2:42.
+angels,633845,2021,2021-06-05,2021-06-06T02:07:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,3,4,27,31,29,31,12.0,5.0,True,15071,"71 degrees, Clear.","8 mph, Out To CF.",7:07 PM.,3:00.
+angels,633843,2021,2021-06-06,2021-06-06T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,4,4,27,32,30,31,5.0,9.0,False,12833,"72 degrees, Sunny.","10 mph, Out To CF.",1:07 PM.,3:57.
+angels,633796,2021,2021-06-07,2021-06-08T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,1,3,28,32,29,29,8.0,3.0,True,9481,"64 degrees, Cloudy.","9 mph, Out To CF.",6:38 PM.,3:02.
+angels,633826,2021,2021-06-08,2021-06-09T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,2,3,29,32,29,30,8.0,1.0,True,9387,"72 degrees, Partly Cloudy.","9 mph, Out To CF.",6:39 PM.,2:58.
+angels,633776,2021,2021-06-09,2021-06-10T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,3,3,30,32,29,31,6.0,1.0,True,10474,"71 degrees, Clear.","9 mph, R To L.",6:39 PM.,2:53.
+angels,633624,2021,2021-06-17,2021-06-18T01:38:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,1,4,34,35,29,40,7.0,5.0,True,30709,"75 degrees, Clear.","8 mph, Out To CF.",6:39 PM.,2:59.
+angels,633654,2021,2021-06-18,2021-06-19T01:38:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,2,4,35,35,29,41,11.0,3.0,True,22734,"72 degrees, Clear.","9 mph, Out To CF.",6:39 PM.,3:32.
+angels,633650,2021,2021-06-19,2021-06-20T02:07:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,3,4,36,35,29,42,8.0,3.0,True,23175,"72 degrees, Clear.","6 mph, Out To CF.",7:07 PM.,3:02.
+angels,633563,2021,2021-06-20,2021-06-20T20:07:00Z,day,N,1,Final,Angel Stadium,Detroit Tigers,4,4,36,36,30,42,3.0,5.0,False,21626,"75 degrees, Sunny.","11 mph, Out To CF.",1:07 PM.,4:03.
+angels,633670,2021,2021-06-22,2021-06-23T01:38:00Z,night,N,1,Final,Angel Stadium,San Francisco Giants,1,2,36,37,47,26,0.0,5.0,False,28354,"73 degrees, Partly Cloudy.","6 mph, R To L.",6:39 PM.,2:53.
+angels,633570,2021,2021-06-23,2021-06-23T20:07:00Z,day,N,1,Final,Angel Stadium,San Francisco Giants,2,2,36,38,48,26,3.0,9.0,False,20620,"81 degrees, Sunny.","3 mph, Out To CF.",1:07 PM.,4:51.
+angels,633402,2021,2021-07-02,2021-07-03T01:38:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,1,3,40,41,27,55,8.0,7.0,True,23561,"76 degrees, Partly Cloudy.","8 mph, Out To RF.",6:39 PM.,3:26.
+angels,633453,2021,2021-07-03,2021-07-04T02:07:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,2,3,41,41,27,56,4.0,1.0,True,28160,"75 degrees, Clear.","9 mph, Out To CF.",7:08 PM.,2:52.
+angels,633391,2021,2021-07-04,2021-07-04T20:07:00Z,day,N,1,Final,Angel Stadium,Baltimore Orioles,3,3,42,41,27,57,6.0,5.0,True,18955,"79 degrees, Sunny.","11 mph, R To L.",1:08 PM.,3:04.
+angels,633389,2021,2021-07-05,2021-07-06T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,1,3,42,42,54,32,4.0,5.0,False,38201,"77 degrees, Clear.","7 mph, Out To CF.",6:39 PM.,3:46.
+angels,633370,2021,2021-07-06,2021-07-07T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,2,3,43,42,54,33,5.0,3.0,True,28689,"78 degrees, Clear.","4 mph, Out To CF.",6:38 PM.,2:54.
+angels,633385,2021,2021-07-07,2021-07-07T20:07:00Z,day,N,1,Final,Angel Stadium,Boston Red Sox,3,3,44,42,54,34,5.0,4.0,True,20001,"79 degrees, Sunny.","6 mph, Out To RF.",1:08 PM.,2:55.
+angels,633323,2021,2021-07-16,2021-07-17T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,4,6,45,45,49,43,5.0,6.0,False,40880,"80 degrees, Clear.","10 mph, Out To CF.",6:38 PM.,3:07.
+angels,633286,2021,2021-07-17,2021-07-18T01:07:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,5,6,46,45,49,44,9.0,4.0,True,28927,"79 degrees, Partly Cloudy.","12 mph, R To L.",6:08 PM.,3:20.
+angels,633284,2021,2021-07-18,2021-07-18T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,6,6,46,46,50,44,4.0,7.0,False,23434,"88 degrees, Partly Cloudy.","10 mph, Out To CF.",1:08 PM.,3:20.
+angels,633157,2021,2021-07-26,2021-07-27T01:38:00Z,night,N,1,Final,Angel Stadium,Colorado Rockies,1,3,50,49,43,57,6.0,2.0,True,22751,"73 degrees, Partly Cloudy.","8 mph, Out To LF.",6:38 PM.,3:16.
+angels,633139,2021,2021-07-27,2021-07-28T01:38:00Z,night,N,1,Final,Angel Stadium,Colorado Rockies,2,3,50,50,44,57,3.0,12.0,False,16115,"81 degrees, Clear.","9 mph, R To L.",6:40 PM.,3:53.
+angels,633130,2021,2021-07-28,2021-07-29T01:38:00Z,night,N,1,Final,Angel Stadium,Colorado Rockies,3,3,51,50,44,58,8.0,7.0,True,16365,"86 degrees, Clear.","9 mph, Out To CF.",6:39 PM.,3:38.
+angels,633111,2021,2021-07-29,2021-07-30T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,1,4,51,51,58,46,0.0,4.0,False,18631,"82 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,3:14.
+angels,633118,2021,2021-07-30,2021-07-31T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,2,4,51,52,59,46,0.0,2.0,False,28861,"79 degrees, Clear.","7 mph, Out To CF.",6:38 PM.,3:18.
+angels,633080,2021,2021-07-31,2021-07-31T20:05:00Z,day,N,1,Final,Angel Stadium,Oakland Athletics,3,4,52,52,59,47,1.0,0.0,True,23207,"84 degrees, Sunny.","8 mph, R To L.",1:05 PM.,2:43.
+angels,633048,2021,2021-08-01,2021-08-01T20:07:00Z,day,N,1,Final,Angel Stadium,Oakland Athletics,4,4,52,53,60,47,3.0,8.0,False,21597,"86 degrees, Sunny.","4 mph, Out To CF.",1:07 PM.,3:08.
+angels,632940,2021,2021-08-10,2021-08-11T02:07:00Z,night,S,2,Final,Angel Stadium,Toronto Blue Jays,2,4,57,57,61,51,0.0,4.0,False,14443,"81 degrees, Clear.","2 mph, Out To CF.",7:07 PM.,2:23.
+angels,632965,2021,2021-08-11,2021-08-12T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,3,4,57,58,62,51,2.0,10.0,False,22620,"84 degrees, Partly Cloudy.","8 mph, Out To CF.",6:38 PM.,3:03.
+angels,632918,2021,2021-08-12,2021-08-13T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,4,4,58,58,62,52,6.0,3.0,True,19590,"82 degrees, Clear.","10 mph, Out To LF.",6:39 PM.,3:08.
+angels,632972,2021,2021-08-13,2021-08-14T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,3,58,59,69,46,1.0,4.0,False,23981,"81 degrees, Clear.","9 mph, Out To CF.",6:37 PM.,2:51.
+angels,632925,2021,2021-08-14,2021-08-15T01:07:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,3,58,60,70,46,2.0,8.0,False,27121,"79 degrees, Partly Cloudy.","8 mph, R To L.",6:08 PM.,3:35.
+angels,632881,2021,2021-08-15,2021-08-15T20:07:00Z,day,N,1,Final,Angel Stadium,Houston Astros,3,3,59,60,70,47,3.0,1.0,True,19281,"84 degrees, Sunny.","9 mph, Out To CF.",1:08 PM.,3:02.
+angels,632782,2021,2021-08-27,2021-08-28T01:38:00Z,night,N,1,Final,Angel Stadium,San Diego Padres,1,2,63,67,70,61,0.0,5.0,False,25376,"82 degrees, Clear.","8 mph, R To L.",6:38 PM.,2:42.
+angels,632697,2021,2021-08-28,2021-08-29T01:07:00Z,night,N,1,Final,Angel Stadium,San Diego Padres,2,2,64,67,70,62,10.0,2.0,True,36176,"75 degrees, Clear.","10 mph, R To L.",6:07 PM.,3:35.
+angels,632690,2021,2021-08-30,2021-08-31T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,1,3,65,67,76,55,8.0,7.0,True,29436,"73 degrees, Clear.","9 mph, Out To LF.",6:37 PM.,3:10.
+angels,632675,2021,2021-08-31,2021-09-01T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,2,3,66,67,76,56,6.0,4.0,True,34813,"72 degrees, Clear.","6 mph, Out To RF.",6:38 PM.,3:12.
+angels,632655,2021,2021-09-01,2021-09-01T23:07:00Z,day,N,1,Final,Angel Stadium,New York Yankees,3,3,66,68,77,56,1.0,4.0,False,28753,"75 degrees, Cloudy.","8 mph, Out To LF.",4:08 PM.,2:50.
+angels,632632,2021,2021-09-03,2021-09-04T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,4,67,68,47,87,3.0,2.0,True,19074,"77 degrees, Clear.","6 mph, R To L.",6:38 PM.,3:22.
+angels,632625,2021,2021-09-04,2021-09-05T01:07:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,4,68,68,47,88,4.0,1.0,True,22697,"93 degrees, Clear.","10 mph, Out To RF.",6:08 PM.,2:21.
+angels,632619,2021,2021-09-05,2021-09-05T20:07:00Z,day,N,1,Final,Angel Stadium,Texas Rangers,3,4,68,69,48,88,3.0,7.0,False,18492,"95 degrees, Sunny.","6 mph, Out To CF.",1:09 PM.,3:15.
+angels,632620,2021,2021-09-06,2021-09-07T01:07:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,4,4,68,70,49,88,0.0,4.0,False,16241,"79 degrees, Clear.","9 mph, Out To CF.",6:07 PM.,2:37.
+angels,632466,2021,2021-09-17,2021-09-18T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,1,3,72,75,80,67,4.0,5.0,False,18918,"70 degrees, Clear.","8 mph, Out To LF.",6:37 PM.,3:19.
+angels,632444,2021,2021-09-18,2021-09-19T01:07:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,2,3,72,76,81,67,1.0,3.0,False,27150,"73 degrees, Clear.","9 mph, Out To CF.",6:08 PM.,3:06.
+angels,632420,2021,2021-09-19,2021-09-19T20:07:00Z,day,N,1,Final,Angel Stadium,Oakland Athletics,3,3,72,77,82,67,2.0,3.0,False,22456,"75 degrees, Sunny.","7 mph, Out To LF.",1:08 PM.,3:21.
+angels,632424,2021,2021-09-20,2021-09-21T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,4,72,78,89,61,0.0,10.0,False,16070,"75 degrees, Clear.","6 mph, Out To RF.",6:38 PM.,3:12.
+angels,632418,2021,2021-09-21,2021-09-22T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,4,72,79,90,61,5.0,10.0,False,18332,"88 degrees, Clear.","6 mph, Out To RF.",6:39 PM.,3:08.
+angels,632395,2021,2021-09-22,2021-09-23T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,3,4,72,80,91,61,5.0,9.0,False,14863,"82 degrees, Clear.","5 mph, Out To RF.",6:41 PM.,4:18.
+angels,632371,2021,2021-09-23,2021-09-24T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,4,4,73,80,91,62,3.0,2.0,True,19829,"70 degrees, Cloudy.","6 mph, Out To LF.",6:39 PM.,3:18.
+angels,632359,2021,2021-09-24,2021-09-25T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,3,73,81,85,69,5.0,6.0,False,18551,"74 degrees, Cloudy.","8 mph, Out To CF.",6:38 PM.,3:40.
+angels,632344,2021,2021-09-25,2021-09-26T01:07:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,3,74,81,85,70,14.0,1.0,True,30221,"72 degrees, Clear.","10 mph, Out To RF.",6:08 PM.,3:07.
+angels,632327,2021,2021-09-26,2021-09-26T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,3,3,74,82,86,70,1.0,5.0,False,22057,"70 degrees, Cloudy.","4 mph, Out To CF.",1:08 PM.,3:09.
+angels,661042,2022,2022-04-07,2022-04-08T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,4,0,1,1,0,1.0,3.0,False,44723,"93 degrees, Clear.","6 mph, Out To RF.",7:05 PM.,3:15.
+angels,661041,2022,2022-04-08,2022-04-09T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,4,0,2,2,0,6.0,13.0,False,42719,"93 degrees, Clear.","10 mph, R To L.",6:40 PM.,3:44.
+angels,661040,2022,2022-04-09,2022-04-10T01:07:00Z,night,N,1,Final,Angel Stadium,Houston Astros,3,4,1,2,2,1,2.0,0.0,True,36139,"72 degrees, Clear.","12 mph, Out To CF.",6:08 PM.,3:02.
+angels,661039,2022,2022-04-10,2022-04-10T20:07:00Z,day,N,1,Final,Angel Stadium,Houston Astros,4,4,1,3,3,1,1.0,4.0,False,41253,"70 degrees, Overcast.","7 mph, Out To CF.",1:09 PM.,3:15.
+angels,661036,2022,2022-04-11,2022-04-12T01:38:00Z,night,N,1,Final,Angel Stadium,Miami Marlins,1,2,2,3,1,3,6.0,2.0,True,20480,"65 degrees, Cloudy.","9 mph, R To L.",6:38 PM.,2:42.
+angels,661038,2022,2022-04-12,2022-04-12T23:07:00Z,day,N,1,Final,Angel Stadium,Miami Marlins,2,2,3,3,1,4,4.0,3.0,True,16132,"71 degrees, Sunny.","12 mph, Out To RF.",4:07 PM.,2:59.
+angels,661037,2022,2022-04-22,2022-04-23T01:38:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,1,3,8,6,5,9,3.0,5.0,False,31679,"64 degrees, Partly Cloudy.","11 mph, Out To RF.",6:39 PM.,2:55.
+angels,661035,2022,2022-04-23,2022-04-24T01:07:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,2,3,8,7,6,9,4.0,5.0,False,43883,"73 degrees, Clear.","9 mph, Out To RF.",6:08 PM.,3:11.
+angels,661033,2022,2022-04-24,2022-04-24T20:07:00Z,day,N,1,Final,Angel Stadium,Baltimore Orioles,3,3,9,7,6,10,7.0,6.0,True,41984,"88 degrees, Sunny.","10 mph, R To L.",1:10 PM.,3:42.
+angels,661034,2022,2022-04-25,2022-04-26T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,1,4,10,7,7,9,3.0,0.0,True,23099,"82 degrees, Partly Cloudy.","8 mph, R To L.",6:39 PM.,2:22.
+angels,661032,2022,2022-04-26,2022-04-27T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,2,4,11,7,7,10,4.0,1.0,True,22551,"72 degrees, Clear.","8 mph, R To L.",6:39 PM.,2:34.
+angels,663439,2022,2022-04-27,2022-04-28T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,3,4,12,7,7,11,9.0,5.0,True,28557,"65 degrees, Clear.","10 mph, Out To CF.",6:38 PM.,3:12.
+angels,663432,2022,2022-04-28,2022-04-28T20:07:00Z,day,N,1,Final,Angel Stadium,Cleveland Guardians,4,4,13,7,7,12,4.0,1.0,True,18826,"66 degrees, Cloudy.","5 mph, Out To RF.",1:08 PM.,2:35.
+angels,663431,2022,2022-05-06,2022-05-07T01:38:00Z,night,N,1,Final,Angel Stadium,Washington Nationals,1,3,18,10,9,19,3.0,0.0,True,41923,"71 degrees, Clear.","9 mph, R To L.",6:37 PM.,2:28.
+angels,663430,2022,2022-05-07,2022-05-08T01:07:00Z,night,N,1,Final,Angel Stadium,Washington Nationals,2,3,18,11,10,19,3.0,7.0,False,30666,"70 degrees, Clear.","12 mph, Out To CF.",6:07 PM.,3:02.
+angels,663429,2022,2022-05-08,2022-05-08T20:07:00Z,day,N,1,Final,Angel Stadium,Washington Nationals,3,3,19,11,10,20,5.0,4.0,True,32337,"68 degrees, Partly Cloudy.","11 mph, Out To RF.",1:07 PM.,3:26.
+angels,663438,2022,2022-05-09,2022-05-10T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,1,3,20,11,18,12,11.0,3.0,True,19537,"66 degrees, Clear.","6 mph, Out To CF.",6:38 PM.,3:02.
+angels,663416,2022,2022-05-10,2022-05-11T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,2,3,21,11,18,13,12.0,0.0,True,39313,"65 degrees, Clear.","10 mph, R To L.",6:50 PM.,2:19.
+angels,663450,2022,2022-05-11,2022-05-11T23:07:00Z,day,N,1,Final,Angel Stadium,Tampa Bay Rays,3,3,21,12,19,13,2.0,4.0,False,21045,"69 degrees, Sunny.","8 mph, Out To CF.",4:07 PM.,3:17.
+angels,663449,2022,2022-05-20,2022-05-21T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,1,3,24,17,17,24,2.0,4.0,False,32422,"65 degrees, Overcast.","8 mph, R To L.",6:40 PM.,3:24.
+angels,663448,2022,2022-05-21,2022-05-22T01:07:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,2,3,25,17,17,25,5.0,3.0,True,39045,"66 degrees, Partly Cloudy.","12 mph, Out To CF.",6:09 PM.,3:12.
+angels,663447,2022,2022-05-22,2022-05-22T20:07:00Z,day,N,1,Final,Angel Stadium,Oakland Athletics,3,3,26,17,17,26,4.0,1.0,True,40042,"73 degrees, Partly Cloudy.","9 mph, Out To CF.",1:09 PM.,2:49.
+angels,663381,2022,2022-05-24,2022-05-25T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,2,27,17,18,23,5.0,3.0,True,23791,"70 degrees, Clear.","11 mph, R To L.",6:39 PM.,2:30.
+angels,663446,2022,2022-05-25,2022-05-26T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,2,27,18,19,23,2.0,7.0,False,22950,"70 degrees, Clear.","9 mph, R To L.",6:40 PM.,2:49.
+angels,663445,2022,2022-05-26,2022-05-27T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,1,4,27,19,24,20,3.0,6.0,False,28228,"68 degrees, Clear.","10 mph, Out To CF.",6:40 PM.,2:56.
+angels,663444,2022,2022-05-27,2022-05-28T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,2,4,27,20,25,20,3.0,4.0,False,44641,"68 degrees, Clear.","6 mph, Out To RF.",6:39 PM.,3:05.
+angels,663400,2022,2022-05-28,2022-05-29T02:07:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,3,4,27,21,26,20,5.0,6.0,False,34005,"64 degrees, Cloudy.","8 mph, Out To CF.",7:09 PM.,3:45.
+angels,663414,2022,2022-05-29,2022-05-29T20:07:00Z,day,N,1,Final,Angel Stadium,Toronto Blue Jays,4,4,27,22,27,20,10.0,11.0,False,36568,"72 degrees, Cloudy.","10 mph, Out To CF.",1:10 PM.,4:13.
+angels,663399,2022,2022-06-06,2022-06-07T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,1,4,27,29,28,27,0.0,1.0,False,29395,"75 degrees, Clear.","2 mph, Calm.",6:39 PM.,2:32.
+angels,663391,2022,2022-06-07,2022-06-08T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,2,4,27,30,29,27,5.0,6.0,False,27627,"73 degrees, Clear.","9 mph, Out To CF.",6:39 PM.,3:56.
+angels,663398,2022,2022-06-08,2022-06-09T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,3,4,27,31,30,27,0.0,1.0,False,26587,"73 degrees, Clear.","10 mph, R To L.",6:39 PM.,3:09.
+angels,663413,2022,2022-06-09,2022-06-10T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,4,4,28,31,30,28,5.0,2.0,True,28595,"73 degrees, Partly Cloudy.","8 mph, R To L.",6:39 PM.,3:09.
+angels,663390,2022,2022-06-10,2022-06-11T01:38:00Z,night,N,1,Final,Angel Stadium,New York Mets,1,3,28,32,39,21,3.0,7.0,False,31499,"76 degrees, Partly Cloudy.","10 mph, Out To CF.",6:38 PM.,3:21.
+angels,663412,2022,2022-06-11,2022-06-12T02:07:00Z,night,N,1,Final,Angel Stadium,New York Mets,2,3,29,32,39,22,11.0,6.0,True,36408,"75 degrees, Clear.","9 mph, R To L.",7:09 PM.,3:21.
+angels,663397,2022,2022-06-12,2022-06-12T23:08:00Z,day,N,1,Final,Angel Stadium,New York Mets,3,3,29,33,40,22,1.0,4.0,False,36598,"79 degrees, Sunny.","10 mph, Out To CF.",4:09 PM.,3:11.
+angels,663443,2022,2022-06-20,2022-06-21T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,1,3,33,37,24,42,2.0,6.0,False,22234,"86 degrees, Clear.","6 mph, Out To RF.",6:40 PM.,2:58.
+angels,663442,2022,2022-06-21,2022-06-22T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,2,3,33,38,25,42,11.0,12.0,False,20189,"79 degrees, Partly Cloudy.","10 mph, R To L.",6:39 PM.,4:14.
+angels,663389,2022,2022-06-22,2022-06-23T01:49:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,3,3,34,38,25,43,5.0,0.0,True,34792,"83 degrees, Partly Cloudy.","7 mph, Out To CF.",7:01 PM.,3:04 (:12 delay).
+angels,663388,2022,2022-06-24,2022-06-25T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,3,34,39,33,39,3.0,4.0,False,35704,"84 degrees, Clear.","8 mph, Out To RF.",6:39 PM.,3:41.
+angels,663441,2022,2022-06-25,2022-06-26T02:07:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,3,34,40,34,39,3.0,5.0,False,35466,"82 degrees, Clear.","8 mph, Out To CF.",7:08 PM.,3:22.
+angels,663387,2022,2022-06-26,2022-06-26T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,3,3,35,40,34,40,2.0,1.0,True,26489,"82 degrees, Sunny.","9 mph, Out To CF.",1:08 PM.,3:04.
+angels,663440,2022,2022-06-27,2022-06-28T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,1,3,36,40,34,38,4.0,3.0,True,21973,"88 degrees, Clear.","6 mph, Out To RF.",6:40 PM.,2:42.
+angels,663392,2022,2022-06-28,2022-06-29T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,2,3,36,41,35,38,4.0,11.0,False,23979,"80 degrees, Clear.","10 mph, R To L.",6:39 PM.,3:16.
+angels,663396,2022,2022-06-29,2022-06-30T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,3,3,37,41,35,39,4.0,1.0,True,27612,"79 degrees, Clear.","6 mph, Out To RF.",6:39 PM.,3:21.
+angels,663402,2022,2022-07-12,2022-07-13T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,3,38,50,57,29,5.0,6.0,False,27180,"73 degrees, Clear.","10 mph, Out To CF.",6:39 PM.,3:37.
+angels,663401,2022,2022-07-13,2022-07-14T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,3,39,50,57,30,7.0,1.0,True,27803,"77 degrees, Clear.","10 mph, Out To LF.",6:39 PM.,3:45.
+angels,663386,2022,2022-07-14,2022-07-15T00:07:00Z,night,N,1,Final,Angel Stadium,Houston Astros,3,3,39,51,58,30,2.0,3.0,False,34496,"77 degrees, Partly Cloudy.","6 mph, Out To CF.",5:07 PM.,3:28.
+angels,663385,2022,2022-07-15,2022-07-16T01:38:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,1,2,39,52,59,30,1.0,9.0,False,44648,"79 degrees, Clear.","8 mph, Out To CF.",6:39 PM.,3:01.
+angels,663415,2022,2022-07-16,2022-07-17T02:07:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,2,2,39,53,60,30,1.0,7.0,False,44728,"77 degrees, Clear.","10 mph, R To L.",7:09 PM.,3:07.
+angels,663380,2022,2022-07-28,2022-07-29T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,4,42,57,44,54,0.0,2.0,False,29718,"79 degrees, Partly Cloudy.","9 mph, Out To CF.",6:38 PM.,2:47.
+angels,663379,2022,2022-07-29,2022-07-30T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,4,42,58,45,54,2.0,7.0,False,29906,"77 degrees, Clear.","12 mph, R To L.",6:37 PM.,3:13.
+angels,663378,2022,2022-07-30,2022-07-31T01:07:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,3,4,43,58,45,55,9.0,7.0,True,32968,"81 degrees, Clear.","11 mph, Out To CF.",6:07 PM.,3:04.
+angels,663377,2022,2022-07-31,2022-07-31T20:07:00Z,day,N,1,Final,Angel Stadium,Texas Rangers,4,4,43,59,46,55,2.0,5.0,False,29257,"82 degrees, Cloudy.","6 mph, Out To CF.",1:07 PM.,2:56.
+angels,663376,2022,2022-08-02,2022-08-03T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,1,3,44,59,39,66,3.0,1.0,True,22920,"84 degrees, Clear.","8 mph, Out To CF.",6:39 PM.,2:33.
+angels,663375,2022,2022-08-03,2022-08-04T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,2,3,44,60,40,66,1.0,3.0,False,25190,"77 degrees, Clear.","11 mph, R To L.",6:38 PM.,3:08.
+angels,663374,2022,2022-08-04,2022-08-04T20:07:00Z,day,N,1,Final,Angel Stadium,Oakland Athletics,3,3,44,61,41,66,7.0,8.0,False,23849,"83 degrees, Cloudy.","7 mph, Out To RF.",1:10 PM.,3:27.
+angels,663373,2022,2022-08-12,2022-08-13T01:38:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,1,3,49,64,58,53,0.0,4.0,False,33459,"86 degrees, Clear.","9 mph, Out To CF.",6:39 PM.,2:56.
+angels,663372,2022,2022-08-13,2022-08-14T01:07:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,2,3,50,64,58,54,5.0,3.0,True,43027,"87 degrees, Partly Cloudy.","10 mph, Out To CF.",6:08 PM.,3:46.
+angels,663371,2022,2022-08-14,2022-08-14T20:07:00Z,day,N,1,Final,Angel Stadium,Minnesota Twins,3,3,51,64,58,55,4.0,2.0,True,27515,"91 degrees, Sunny.","9 mph, R To L.",1:09 PM.,2:45.
+angels,663370,2022,2022-08-15,2022-08-16T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,3,51,65,63,54,2.0,6.0,False,23096,"83 degrees, Clear.","10 mph, R To L.",6:37 PM.,3:26.
+angels,663369,2022,2022-08-16,2022-08-17T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,3,51,66,64,54,2.0,8.0,False,20294,"85 degrees, Clear.","9 mph, Out To CF.",6:39 PM.,3:04.
+angels,663408,2022,2022-08-17,2022-08-17T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,3,3,51,67,65,54,7.0,11.0,False,19550,"89 degrees, Sunny.","6 mph, Out To LF.",1:09 PM.,3:14.
+angels,663424,2022,2022-08-29,2022-08-30T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,1,3,56,73,78,51,4.0,3.0,True,44537,"79 degrees, Clear.","6 mph, Out To LF.",6:40 PM.,3:00.
+angels,663437,2022,2022-08-30,2022-08-31T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,2,3,56,74,79,51,4.0,7.0,False,42684,"87 degrees, Clear.","9 mph, R To L.",6:38 PM.,2:59.
+angels,663410,2022,2022-08-31,2022-09-01T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,3,3,57,74,79,52,3.0,2.0,True,43555,"95 degrees, Partly Cloudy.","8 mph, Out To CF.",6:38 PM.,2:43.
+angels,663428,2022,2022-09-02,2022-09-03T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,3,57,75,85,47,2.0,4.0,False,22464,"88 degrees, Clear.","6 mph, Out To CF.",6:39 PM.,3:09.
+angels,663436,2022,2022-09-03,2022-09-04T01:07:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,3,58,75,85,48,2.0,1.0,True,38244,"94 degrees, Clear.","9 mph, Out To CF.",6:09 PM.,4:11.
+angels,663435,2022,2022-09-04,2022-09-04T20:07:00Z,day,N,1,Final,Angel Stadium,Houston Astros,3,3,58,76,86,48,1.0,9.0,False,28179,"102 degrees, Partly Cloudy.","5 mph, Out To RF.",1:08 PM.,2:43.
+angels,663434,2022,2022-09-05,2022-09-06T01:38:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,1,3,59,76,51,84,10.0,0.0,True,19518,"92 degrees, Clear.","7 mph, R To L.",6:40 PM.,2:53.
+angels,663407,2022,2022-09-06,2022-09-07T01:38:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,2,3,60,76,51,85,5.0,4.0,True,20002,"87 degrees, Clear.","8 mph, R To L.",6:39 PM.,3:01.
+angels,663409,2022,2022-09-07,2022-09-07T20:07:00Z,day,N,1,Final,Angel Stadium,Detroit Tigers,3,3,60,77,52,85,4.0,5.0,False,15756,"99 degrees, Sunny.","4 mph, Out To CF.",1:09 PM.,3:35.
+angels,663427,2022,2022-09-16,2022-09-17T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,4,62,82,80,63,8.0,7.0,True,37480,"75 degrees, Clear.","7 mph, Out To RF.",6:39 PM.,3:29.
+angels,663426,2022,2022-09-17,2022-09-18T01:07:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,4,63,82,80,64,2.0,1.0,True,35538,"75 degrees, Clear.","8 mph, Out To CF.",6:07 PM.,2:48.
+angels,663425,2022,2022-09-18,2022-09-18T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,3,4,64,82,80,65,5.0,1.0,True,24929,"79 degrees, Partly Cloudy.","6 mph, Out To RF.",1:08 PM.,2:43.
+angels,663423,2022,2022-09-19,2022-09-19T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,4,4,64,83,81,65,1.0,9.0,False,15594,"81 degrees, Sunny.","5 mph, Out To RF.",1:08 PM.,3:08.
+angels,663422,2022,2022-09-27,2022-09-28T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,1,3,68,86,56,98,4.0,3.0,True,19374,"84 degrees, Partly Cloudy.","5 mph, Out To CF.",6:38 PM.,3:14.
+angels,663421,2022,2022-09-28,2022-09-29T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,2,3,69,86,56,99,4.0,1.0,True,23573,"79 degrees, Clear.","8 mph, Out To CF.",6:39 PM.,3:23.
+angels,663420,2022,2022-09-29,2022-09-30T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,3,3,70,86,56,100,4.0,2.0,True,31293,"76 degrees, Clear.","7 mph, Out To CF.",6:39 PM.,3:07.
+angels,663406,2022,2022-09-30,2022-10-01T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,3,71,86,66,90,4.0,1.0,True,32939,"70 degrees, Clear.","8 mph, Out To CF.",6:39 PM.,2:35.
+angels,663405,2022,2022-10-01,2022-10-02T01:07:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,3,72,86,66,91,3.0,2.0,True,32472,"70 degrees, Clear.","10 mph, Out To CF.",6:20 PM.,2:27.
+angels,663419,2022,2022-10-02,2022-10-02T20:07:00Z,day,N,1,Final,Angel Stadium,Texas Rangers,3,3,73,86,66,92,8.0,3.0,True,26041,"79 degrees, Sunny.","3 mph, Out To LF.",1:07 PM.,2:50.
+angels,718670,2023,2023-04-07,2023-04-08T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,1,3,4,3,5,3,3.0,4.0,False,44735,"64 degrees, Partly Cloudy.","6 mph, Out To CF.",7:05 PM.,2:33.
+angels,718657,2023,2023-04-08,2023-04-09T01:07:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,2,3,5,3,5,4,9.0,5.0,True,44534,"63 degrees, Clear.","8 mph, Out To CF.",6:07 PM.,2:40.
+angels,718644,2023,2023-04-09,2023-04-09T20:07:00Z,day,N,1,Final,Angel Stadium,Toronto Blue Jays,3,3,5,4,6,4,11.0,12.0,False,31092,"72 degrees, Sunny.","5 mph, Out To CF.",1:06 PM.,3:31.
+angels,718631,2023,2023-04-10,2023-04-11T01:38:00Z,night,N,1,Final,Angel Stadium,Washington Nationals,1,3,5,5,4,7,4.0,6.0,False,19557,"66 degrees, Clear.","6 mph, Out To CF.",6:38 PM.,2:40.
+angels,718614,2023,2023-04-11,2023-04-12T01:38:00Z,night,N,1,Final,Angel Stadium,Washington Nationals,2,3,6,5,4,8,2.0,0.0,True,27390,"63 degrees, Partly Cloudy.","8 mph, R To L.",6:39 PM.,2:26.
+angels,718602,2023,2023-04-12,2023-04-12T20:07:00Z,day,N,1,Final,Angel Stadium,Washington Nationals,3,3,7,5,4,9,3.0,2.0,True,17780,"65 degrees, Cloudy.","7 mph, Out To CF.",1:07 PM.,2:22.
+angels,718485,2023,2023-04-21,2023-04-22T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,1,3,10,10,4,16,2.0,0.0,True,44741,"83 degrees, Clear.","8 mph, R To L.",6:39 PM.,2:03.
+angels,718466,2023,2023-04-22,2023-04-23T01:07:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,2,3,10,11,5,16,8.0,11.0,False,44148,"77 degrees, Partly Cloudy.","7 mph, R To L.",6:07 PM.,2:40.
+angels,718452,2023,2023-04-23,2023-04-23T20:07:00Z,day,N,1,Final,Angel Stadium,Kansas City Royals,3,3,11,11,5,17,4.0,3.0,True,36016,"76 degrees, Sunny.","9 mph, Out To LF.",1:08 PM.,2:11.
+angels,718437,2023,2023-04-24,2023-04-25T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,1,4,11,12,5,18,10.0,11.0,False,23814,"67 degrees, Clear.","8 mph, Out To LF.",6:39 PM.,3:25.
+angels,718425,2023,2023-04-25,2023-04-26T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,2,4,12,12,5,19,5.0,3.0,True,26971,"65 degrees, Partly Cloudy.","8 mph, R To L.",6:39 PM.,2:47.
+angels,718408,2023,2023-04-26,2023-04-27T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,3,4,13,12,5,20,11.0,3.0,True,24524,"73 degrees, Clear.","7 mph, Out To LF.",6:38 PM.,2:30.
+angels,718402,2023,2023-04-27,2023-04-27T20:07:00Z,day,N,1,Final,Angel Stadium,Oakland Athletics,4,4,14,12,5,21,8.0,7.0,True,21741,"74 degrees, Sunny.","8 mph, Out To CF.",1:07 PM.,3:03.
+angels,718294,2023,2023-05-05,2023-05-06T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,3,19,14,18,13,5.0,4.0,True,39073,"65 degrees, Partly Cloudy.","9 mph, Out To CF.",6:38 PM.,2:55.
+angels,718275,2023,2023-05-06,2023-05-07T01:07:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,3,19,15,19,13,1.0,10.0,False,37409,"66 degrees, Partly Cloudy.","10 mph, R To L.",6:09 PM.,2:48.
+angels,718264,2023,2023-05-07,2023-05-07T20:07:00Z,day,N,1,Final,Angel Stadium,Texas Rangers,3,3,19,16,20,13,8.0,16.0,False,41641,"70 degrees, Partly Cloudy.","8 mph, Out To CF.",1:08 PM.,3:06.
+angels,718254,2023,2023-05-08,2023-05-09T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,3,20,16,17,18,6.0,4.0,True,26064,"69 degrees, Clear.","8 mph, Out To CF.",6:39 PM.,2:29.
+angels,718237,2023,2023-05-09,2023-05-10T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,3,20,17,18,18,1.0,3.0,False,29018,"63 degrees, Partly Cloudy.","9 mph, Out To CF.",6:39 PM.,2:16.
+angels,718235,2023,2023-05-10,2023-05-10T20:07:00Z,day,N,1,Final,Angel Stadium,Houston Astros,3,3,20,18,19,18,4.0,5.0,False,20420,"69 degrees, Partly Cloudy.","8 mph, Out To LF.",1:08 PM.,2:38.
+angels,718106,2023,2023-05-19,2023-05-20T01:38:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,1,3,24,22,24,21,5.0,4.0,True,31079,"66 degrees, Cloudy.","7 mph, Out To RF.",6:39 PM.,2:40.
+angels,718096,2023,2023-05-20,2023-05-21T02:07:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,2,3,24,23,25,21,2.0,6.0,False,35688,"67 degrees, Partly Cloudy.","10 mph, R To L.",7:09 PM.,2:54.
+angels,718080,2023,2023-05-21,2023-05-21T20:07:00Z,day,N,1,Final,Angel Stadium,Minnesota Twins,3,3,25,23,25,22,4.0,2.0,True,42138,"73 degrees, Partly Cloudy.","6 mph, R To L.",1:08 PM.,2:41.
+angels,718070,2023,2023-05-22,2023-05-23T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,1,3,26,23,26,22,2.0,1.0,True,25314,"68 degrees, Clear.","4 mph, Out To CF.",6:38 PM.,2:05.
+angels,718053,2023,2023-05-23,2023-05-24T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,2,3,27,23,26,23,4.0,0.0,True,25798,"62 degrees, Overcast.","4 mph, Out To RF.",6:38 PM.,2:13.
+angels,718034,2023,2023-05-24,2023-05-25T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,3,3,28,23,26,24,7.0,3.0,True,26596,"64 degrees, Cloudy.","8 mph, R To L.",6:38 PM.,2:33.
+angels,718015,2023,2023-05-26,2023-05-27T01:38:00Z,night,N,1,Final,Angel Stadium,Miami Marlins,1,3,28,24,26,26,2.0,6.0,False,32130,"64 degrees, Cloudy.","9 mph, Out To CF.",6:41 PM.,2:42.
+angels,717998,2023,2023-05-27,2023-05-28T02:07:00Z,night,N,1,Final,Angel Stadium,Miami Marlins,2,3,28,25,27,26,5.0,8.0,False,38131,"66 degrees, Partly Cloudy.","6 mph, Out To CF.",7:07 PM.,3:33.
+angels,717984,2023,2023-05-28,2023-05-28T20:07:00Z,day,N,1,Final,Angel Stadium,Miami Marlins,3,3,28,26,28,26,0.0,2.0,False,36345,"68 degrees, Cloudy.","4 mph, Out To CF.",1:07 PM.,2:48.
+angels,717861,2023,2023-06-06,2023-06-07T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago Cubs,1,3,32,30,26,34,7.0,4.0,True,27716,"65 degrees, Cloudy.","8 mph, Out To CF.",6:39 PM.,2:45.
+angels,717855,2023,2023-06-07,2023-06-08T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago Cubs,2,3,33,30,26,35,6.0,2.0,True,28817,"68 degrees, Cloudy.","6 mph, Out To CF.",6:38 PM.,2:31.
+angels,717838,2023,2023-06-08,2023-06-09T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago Cubs,3,3,34,30,26,36,3.0,1.0,True,28179,"71 degrees, Clear.","8 mph, Out To RF.",6:40 PM.,2:37.
+angels,717824,2023,2023-06-09,2023-06-10T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,3,35,30,30,32,5.0,4.0,True,36064,"67 degrees, Cloudy.","8 mph, R To L.",6:39 PM.,2:50.
+angels,717809,2023,2023-06-10,2023-06-11T02:07:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,3,35,31,31,32,2.0,6.0,False,38454,"64 degrees, Overcast.","8 mph, R To L.",7:07 PM.,3:02.
+angels,717799,2023,2023-06-11,2023-06-11T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,3,3,36,31,31,33,9.0,4.0,True,39405,"69 degrees, Cloudy.","10 mph, Out To LF.",1:08 PM.,2:55.
+angels,717678,2023,2023-06-20,2023-06-21T02:07:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,1,2,41,34,40,33,0.0,2.0,False,44703,"72 degrees, Clear.","7 mph, Out To CF.",7:07 PM.,2:25.
+angels,717662,2023,2023-06-21,2023-06-22T01:38:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,2,2,41,35,41,33,0.0,2.0,False,44760,"76 degrees, Clear.","8 mph, Out To RF.",6:40 PM.,2:30.
+angels,717608,2023,2023-06-26,2023-06-27T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,1,4,43,37,34,46,2.0,1.0,True,28554,"74 degrees, Clear.","8 mph, R To L.",6:39 PM.,2:17.
+angels,717592,2023,2023-06-27,2023-06-28T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,2,4,44,37,34,47,4.0,2.0,True,33637,"73 degrees, Clear.","7 mph, Out To CF.",6:38 PM.,2:54.
+angels,717576,2023,2023-06-28,2023-06-29T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,3,4,44,38,35,47,5.0,11.0,False,29861,"71 degrees, Clear.","5 mph, R To L.",6:38 PM.,2:45.
+angels,717560,2023,2023-06-29,2023-06-29T20:07:00Z,day,N,1,Final,Angel Stadium,Chicago White Sox,4,4,44,39,36,47,7.0,9.0,False,27630,"75 degrees, Sunny.","8 mph, Out To LF.",1:09 PM.,2:51.
+angels,717549,2023,2023-06-30,2023-07-01T01:38:00Z,night,N,1,Final,Angel Stadium,Arizona Diamondbacks,1,3,44,40,49,34,2.0,6.0,False,34957,"76 degrees, Clear.","8 mph, Out To CF.",6:40 PM.,2:47.
+angels,717533,2023,2023-07-01,2023-07-02T02:07:00Z,night,N,1,Final,Angel Stadium,Arizona Diamondbacks,2,3,44,41,50,34,1.0,3.0,False,44472,"69 degrees, Clear.","11 mph, Out To LF.",7:08 PM.,2:40.
+angels,717522,2023,2023-07-02,2023-07-02T20:07:00Z,day,N,1,Final,Angel Stadium,Arizona Diamondbacks,3,3,45,41,50,35,5.0,2.0,True,29167,"80 degrees, Sunny.","6 mph, Out To RF.",1:08 PM.,2:21.
+angels,717405,2023,2023-07-14,2023-07-15T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,3,45,47,51,41,5.0,7.0,False,38850,"85 degrees, Clear.","8 mph, Out To CF.",6:37 PM.,3:11.
+angels,717389,2023,2023-07-15,2023-07-16T01:07:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,3,46,47,51,42,13.0,12.0,True,37523,"77 degrees, Clear.","9 mph, Out To RF.",6:08 PM.,3:31.
+angels,717381,2023,2023-07-16,2023-07-16T23:10:00Z,day,N,1,Final,Angel Stadium,Houston Astros,3,3,46,48,52,42,8.0,9.0,False,34679,"83 degrees, Sunny.","8 mph, Out To CF.",4:10 PM.,3:31.
+angels,717369,2023,2023-07-17,2023-07-18T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,1,3,47,48,50,45,4.0,3.0,True,41180,"79 degrees, Clear.","9 mph, Out To CF.",6:39 PM.,3:29.
+angels,717352,2023,2023-07-18,2023-07-19T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,2,3,48,48,50,46,5.0,1.0,True,41556,"82 degrees, Clear.","9 mph, R To L.",6:38 PM.,2:16.
+angels,717339,2023,2023-07-19,2023-07-19T23:07:00Z,day,N,1,Final,Angel Stadium,New York Yankees,3,3,49,48,50,47,7.0,3.0,True,39141,"89 degrees, Partly Cloudy.","10 mph, Out To CF.",4:07 PM.,2:54.
+angels,717312,2023,2023-07-21,2023-07-22T01:38:00Z,night,N,1,Final,Angel Stadium,Pittsburgh Pirates,1,3,50,48,42,55,8.0,5.0,True,40309,"79 degrees, Partly Cloudy.","6 mph, Out To CF.",6:39 PM.,2:35.
+angels,717297,2023,2023-07-22,2023-07-23T01:07:00Z,night,N,1,Final,Angel Stadium,Pittsburgh Pirates,2,3,50,49,43,55,0.0,3.0,False,37240,"79 degrees, Partly Cloudy.","9 mph, Out To CF.",6:08 PM.,2:46.
+angels,717278,2023,2023-07-23,2023-07-23T20:07:00Z,day,N,1,Final,Angel Stadium,Pittsburgh Pirates,3,3,51,49,43,56,7.0,5.0,True,28385,"81 degrees, Overcast.","5 mph, Out To CF.",1:08 PM.,2:40.
+angels,717144,2023,2023-08-03,2023-08-04T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,4,56,54,57,52,3.0,5.0,False,37701,"79 degrees, Clear.","9 mph, R To L.",6:37 PM.,2:37.
+angels,717130,2023,2023-08-04,2023-08-05T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,4,56,55,58,52,7.0,9.0,False,34479,"82 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,3:02.
+angels,717109,2023,2023-08-05,2023-08-06T01:07:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,3,4,56,56,59,52,2.0,3.0,False,35318,"84 degrees, Clear.","8 mph, R To L.",6:07 PM.,2:51.
+angels,717101,2023,2023-08-06,2023-08-06T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,4,4,56,57,60,52,2.0,3.0,False,29960,"90 degrees, Sunny.","11 mph, Out To CF.",1:07 PM.,2:54.
+angels,717090,2023,2023-08-07,2023-08-08T01:38:00Z,night,N,1,Final,Angel Stadium,San Francisco Giants,1,3,56,58,62,51,3.0,8.0,False,32582,"78 degrees, Clear.","10 mph, Out To LF.",6:38 PM.,2:50.
+angels,717068,2023,2023-08-08,2023-08-09T01:38:00Z,night,N,1,Final,Angel Stadium,San Francisco Giants,2,3,57,58,62,52,7.0,5.0,True,31974,"77 degrees, Partly Cloudy.","9 mph, R To L.",6:39 PM.,2:36.
+angels,717071,2023,2023-08-09,2023-08-10T01:38:00Z,night,N,1,Final,Angel Stadium,San Francisco Giants,3,3,58,58,62,53,4.0,1.0,True,36980,"74 degrees, Cloudy.","6 mph, L To R.",6:39 PM.,2:35.
+angels,716945,2023,2023-08-18,2023-08-19T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,1,3,60,63,74,50,6.0,9.0,False,38297,"81 degrees, Clear.","7 mph, R To L.",6:38 PM.,3:20.
+angels,716915,2023,2023-08-19,2023-08-19T20:07:00Z,day,S,1,Final,Angel Stadium,Tampa Bay Rays,2,3,61,63,74,51,7.0,6.0,True,27309,"78 degrees, Cloudy.","14 mph, Out To CF.",1:08 PM.,2:34.
+angels,716925,2023,2023-08-19,2023-08-20T01:07:00Z,night,S,2,Final,Angel Stadium,Tampa Bay Rays,3,3,61,64,75,51,4.0,18.0,False,33803,"76 degrees, Cloudy.","8 mph, Out To CF.",6:07 PM.,2:52.
+angels,716903,2023,2023-08-23,2023-08-22T01:38:00Z,night,N,1,Postponed,Angel Stadium,Cincinnati Reds,1,3,61,66,66,61,,,,24596,"76 degrees, Clear.","7 mph, Out To CF.",6:39 PM.,3:09.
+angels,716892,2023,2023-08-22,2023-08-23T01:38:00Z,night,N,1,Final,Angel Stadium,Cincinnati Reds,1,3,61,65,65,61,3.0,4.0,False,26583,"81 degrees, Clear.","9 mph, R To L.",6:39 PM.,2:30.
+angels,716890,2023,2023-08-23,2023-08-23T20:07:00Z,day,S,1,Final,Angel Stadium,Cincinnati Reds,2,3,61,66,66,61,4.0,9.0,False,28776,"85 degrees, Sunny.","8 mph, Out To CF.",1:09 PM.,3:08.
+angels,716713,2023,2023-09-04,2023-09-05T01:38:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,1,3,64,74,86,51,3.0,6.0,False,29214,"74 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:22.
+angels,716706,2023,2023-09-05,2023-09-06T01:38:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,2,3,64,75,87,51,4.0,5.0,False,22496,"71 degrees, Cloudy.","7 mph, R To L.",6:39 PM.,3:16.
+angels,716690,2023,2023-09-06,2023-09-07T01:38:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,3,3,64,76,88,51,3.0,10.0,False,29021,"77 degrees, Clear.","8 mph, R To L.",6:39 PM.,2:56.
+angels,716684,2023,2023-09-07,2023-09-08T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,1,4,65,76,67,74,3.0,2.0,True,24288,"79 degrees, Clear.","6 mph, Out To CF.",6:38 PM.,2:51.
+angels,716667,2023,2023-09-08,2023-09-09T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,2,4,65,77,68,74,3.0,6.0,False,34209,"86 degrees, Partly Cloudy.","8 mph, R To L.",6:38 PM.,2:58.
+angels,716650,2023,2023-09-09,2023-09-10T01:07:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,3,4,66,77,68,75,6.0,2.0,True,27233,"87 degrees, Partly Cloudy.","8 mph, Out To LF.",6:07 PM.,2:04.
+angels,716633,2023,2023-09-10,2023-09-10T20:07:00Z,day,N,1,Final,Angel Stadium,Cleveland Guardians,4,4,67,77,68,76,2.0,1.0,True,26134,"88 degrees, Partly Cloudy.","4 mph, R To L.",1:08 PM.,2:25.
+angels,716570,2023,2023-09-15,2023-09-16T01:38:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,1,3,68,80,68,79,2.0,11.0,False,37822,"73 degrees, Clear.","7 mph, Out To LF.",6:38 PM.,2:36.
+angels,716554,2023,2023-09-16,2023-09-17T01:07:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,2,3,68,81,69,79,4.0,5.0,False,35022,"69 degrees, Overcast.","5 mph, R To L.",6:08 PM.,3:03.
+angels,716544,2023,2023-09-17,2023-09-17T20:07:00Z,day,N,1,Final,Angel Stadium,Detroit Tigers,3,3,68,82,70,79,3.0,5.0,False,34943,"74 degrees, Cloudy.","5 mph, Out To CF.",1:08 PM.,2:38.
+angels,716440,2023,2023-09-25,2023-09-26T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,3,70,87,88,68,1.0,5.0,False,25208,"73 degrees, Clear.","6 mph, R To L.",6:39 PM.,2:41.
+angels,716422,2023,2023-09-26,2023-09-27T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,3,71,87,88,69,9.0,3.0,True,26976,"75 degrees, Clear.","5 mph, Out To CF.",6:39 PM.,2:37.
+angels,716420,2023,2023-09-27,2023-09-28T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,3,3,71,88,89,69,0.0,5.0,False,30020,"75 degrees, Partly Cloudy.","8 mph, R To L.",6:39 PM.,2:35.
+angels,716386,2023,2023-09-29,2023-09-30T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,1,3,72,88,49,111,5.0,1.0,True,32333,"69 degrees, Cloudy.","8 mph, Out To CF.",6:39 PM.,2:18.
+angels,716371,2023,2023-09-30,2023-10-01T01:07:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,2,3,72,89,50,111,3.0,7.0,False,31633,"66 degrees, Overcast.","9 mph, R To L.",6:07 PM.,2:23.
+angels,716365,2023,2023-10-01,2023-10-01T19:07:00Z,day,N,1,Final,Angel Stadium,Oakland Athletics,3,3,73,89,50,112,7.0,3.0,True,26539,"65 degrees, Overcast.","2 mph, Calm.",12:06 PM.,2:32.
+angels,746249,2024,2024-04-05,2024-04-06T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,1,3,4,3,6,2,6.0,8.0,False,44714,"54 degrees, Partly Cloudy.","8 mph, L To R.",7:06 PM.,3:11.
+angels,746248,2024,2024-04-06,2024-04-07T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,2,3,5,3,6,3,2.0,1.0,True,44485,"61 degrees, Clear.","7 mph, R To L.",6:38 PM.,2:42.
+angels,746251,2024,2024-04-07,2024-04-07T20:07:00Z,day,N,1,Final,Angel Stadium,Boston Red Sox,3,3,5,4,7,3,2.0,12.0,False,38917,"66 degrees, Partly Cloudy.","9 mph, Out To CF.",1:08 PM.,2:56.
+angels,746252,2024,2024-04-08,2024-04-09T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,1,3,6,4,5,6,7.0,1.0,True,18748,"70 degrees, Clear.","2 mph, Varies.",6:38 PM.,2:14.
+angels,746250,2024,2024-04-09,2024-04-10T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,2,3,6,5,6,6,4.0,6.0,False,20271,"77 degrees, Clear.","4 mph, R To L.",6:38 PM.,2:46.
+angels,746247,2024,2024-04-10,2024-04-10T20:07:00Z,day,N,1,Final,Angel Stadium,Tampa Bay Rays,3,3,6,6,7,6,2.0,4.0,False,16600,"80 degrees, Sunny.","6 mph, Out To CF.",1:08 PM.,2:32.
+angels,746242,2024,2024-04-22,2024-04-23T01:38:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,1,3,9,14,15,7,2.0,4.0,False,26081,"59 degrees, Cloudy.","6 mph, Out To RF.",6:38 PM.,2:36.
+angels,746246,2024,2024-04-23,2024-04-24T01:38:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,2,3,10,14,15,8,7.0,4.0,True,22803,"66 degrees, Partly Cloudy.","4 mph, Out To RF.",6:38 PM.,2:45.
+angels,746244,2024,2024-04-24,2024-04-24T20:07:00Z,day,N,1,Final,Angel Stadium,Baltimore Orioles,3,3,10,15,16,8,5.0,6.0,False,19557,"67 degrees, Cloudy.","10 mph, Out To CF.",1:07 PM.,2:57.
+angels,746243,2024,2024-04-26,2024-04-27T01:38:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,1,3,10,16,12,13,3.0,5.0,False,31087,"64 degrees, Partly Cloudy.","7 mph, Out To RF.",6:40 PM.,2:50.
+angels,746245,2024,2024-04-27,2024-04-28T01:38:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,2,3,10,17,13,13,5.0,16.0,False,44478,"67 degrees, Clear.","9 mph, R To L.",6:38 PM.,3:05.
+angels,746237,2024,2024-04-28,2024-04-28T20:07:00Z,day,N,1,Final,Angel Stadium,Minnesota Twins,3,3,10,18,14,13,5.0,11.0,False,38955,"73 degrees, Sunny.","6 mph, Out To CF.",1:09 PM.,3:01.
+angels,746236,2024,2024-04-29,2024-04-30T01:38:00Z,night,N,1,Final,Angel Stadium,Philadelphia Phillies,1,3,11,18,19,11,6.0,5.0,True,25449,"71 degrees, Clear.","7 mph, Out To CF.",6:39 PM.,2:43.
+angels,746239,2024,2024-04-30,2024-05-01T01:38:00Z,night,N,1,Final,Angel Stadium,Philadelphia Phillies,2,3,11,19,20,11,5.0,7.0,False,23949,"68 degrees, Clear.","10 mph, Out To CF.",6:38 PM.,2:48.
+angels,746238,2024,2024-05-01,2024-05-01T20:07:00Z,day,N,1,Final,Angel Stadium,Philadelphia Phillies,3,3,11,20,21,11,1.0,2.0,False,20156,"71 degrees, Sunny.","6 mph, Out To RF.",1:08 PM.,2:53.
+angels,746241,2024,2024-05-09,2024-05-10T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,1,4,14,24,23,16,4.0,10.0,False,23568,"67 degrees, Clear.","11 mph, Out To CF.",6:38 PM.,2:44.
+angels,746240,2024,2024-05-10,2024-05-11T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,2,4,14,25,24,16,1.0,2.0,False,29126,"66 degrees, Partly Cloudy.","6 mph, Out To CF.",6:38 PM.,2:38.
+angels,746232,2024,2024-05-11,2024-05-12T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,3,4,15,25,24,17,9.0,3.0,True,31593,"67 degrees, Clear.","10 mph, R To L.",6:38 PM.,2:21.
+angels,746234,2024,2024-05-12,2024-05-12T20:07:00Z,day,N,1,Final,Angel Stadium,Kansas City Royals,4,4,15,26,25,17,2.0,4.0,False,27723,"73 degrees, Sunny.","6 mph, L To R.",1:07 PM.,2:18.
+angels,746233,2024,2024-05-13,2024-05-14T01:38:00Z,night,N,1,Final,Angel Stadium,St. Louis Cardinals,1,3,15,27,17,24,5.0,10.0,False,22814,"65 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:54.
+angels,746235,2024,2024-05-14,2024-05-15T01:38:00Z,night,N,1,Final,Angel Stadium,St. Louis Cardinals,2,3,15,28,18,24,6.0,7.0,False,21490,"66 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:55.
+angels,746231,2024,2024-05-15,2024-05-16T01:07:00Z,night,N,1,Final,Angel Stadium,St. Louis Cardinals,3,3,16,28,18,25,7.0,2.0,True,21961,"68 degrees, Cloudy.","8 mph, Out To CF.",6:08 PM.,2:57.
+angels,746227,2024,2024-05-24,2024-05-25T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,1,3,20,31,34,17,4.0,10.0,False,37618,"66 degrees, Partly Cloudy.","8 mph, Out To CF.",6:38 PM.,2:40.
+angels,746226,2024,2024-05-25,2024-05-26T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,2,3,20,32,35,17,3.0,4.0,False,35861,"66 degrees, Partly Cloudy.","9 mph, R To L.",6:39 PM.,2:22.
+angels,746230,2024,2024-05-26,2024-05-26T20:07:00Z,day,N,1,Final,Angel Stadium,Cleveland Guardians,3,3,20,33,36,17,4.0,5.0,False,38741,"71 degrees, Partly Cloudy.","4 mph, Out To RF.",1:08 PM.,2:33.
+angels,746229,2024,2024-05-28,2024-05-29T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,1,3,21,33,37,19,4.0,3.0,True,34894,"69 degrees, Clear.","6 mph, Out To CF.",6:39 PM.,2:25.
+angels,746228,2024,2024-05-29,2024-05-30T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,2,3,21,34,38,19,1.0,2.0,False,34313,"68 degrees, Clear.","9 mph, Out To CF.",6:38 PM.,2:23.
+angels,746225,2024,2024-05-30,2024-05-31T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,3,3,21,35,39,19,3.0,8.0,False,36312,"68 degrees, Clear.","11 mph, Out To CF.",6:41 PM.,2:41.
+angels,746224,2024,2024-06-03,2024-06-04T01:38:00Z,night,N,1,Final,Angel Stadium,San Diego Padres,1,3,22,38,32,31,2.0,1.0,True,32683,"69 degrees, Partly Cloudy.","6 mph, Out To CF.",6:37 PM.,2:17.
+angels,746222,2024,2024-06-04,2024-06-05T01:38:00Z,night,N,1,Final,Angel Stadium,San Diego Padres,2,3,23,38,32,32,4.0,2.0,True,33947,"73 degrees, Clear.","8 mph, Out To CF.",6:40 PM.,2:29.
+angels,746221,2024,2024-06-05,2024-06-06T01:38:00Z,night,N,1,Final,Angel Stadium,San Diego Padres,3,3,24,38,32,33,3.0,2.0,True,31960,"70 degrees, Clear.","9 mph, Out To RF.",6:39 PM.,2:18.
+angels,746220,2024,2024-06-07,2024-06-08T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,3,24,39,29,35,1.0,7.0,False,36534,"68 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:19.
+angels,746223,2024,2024-06-08,2024-06-09T02:07:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,3,24,40,30,35,1.0,6.0,False,38217,"69 degrees, Partly Cloudy.","9 mph, R To L.",7:08 PM.,2:48.
+angels,746216,2024,2024-06-09,2024-06-09T20:07:00Z,day,N,1,Final,Angel Stadium,Houston Astros,3,3,25,40,30,36,9.0,7.0,True,42703,"72 degrees, Overcast.","7 mph, Out To CF.",1:08 PM.,3:13.
+angels,746215,2024,2024-06-17,2024-06-18T01:38:00Z,night,N,1,Final,Angel Stadium,Milwaukee Brewers,1,3,29,43,42,30,5.0,3.0,True,26575,"71 degrees, Clear.","9 mph, Out To RF.",6:38 PM.,2:27.
+angels,746217,2024,2024-06-18,2024-06-19T01:38:00Z,night,N,1,Final,Angel Stadium,Milwaukee Brewers,2,3,29,44,43,30,3.0,6.0,False,27967,"74 degrees, Clear.","10 mph, Out To CF.",6:39 PM.,2:47.
+angels,746219,2024,2024-06-19,2024-06-20T01:38:00Z,night,N,1,Final,Angel Stadium,Milwaukee Brewers,3,3,29,45,44,30,0.0,2.0,False,28483,"72 degrees, Clear.","6 mph, Out To CF.",6:38 PM.,2:22.
+angels,746218,2024,2024-06-24,2024-06-25T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,1,3,31,46,29,52,5.0,1.0,True,24586,"84 degrees, Clear.","10 mph, R To L.",6:38 PM.,2:23.
+angels,746213,2024,2024-06-25,2024-06-26T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,2,3,32,46,29,53,7.0,5.0,True,26473,"79 degrees, Clear.","4 mph, Out To CF.",6:38 PM.,2:47.
+angels,746212,2024,2024-06-26,2024-06-26T20:07:00Z,day,N,1,Final,Angel Stadium,Oakland Athletics,3,3,33,46,29,54,5.0,2.0,True,31240,"80 degrees, Sunny.","4 mph, Out To CF.",1:06 PM.,2:37.
+angels,746210,2024,2024-06-27,2024-06-28T01:38:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,1,4,34,46,37,44,5.0,0.0,True,27340,"77 degrees, Clear.","9 mph, Out To CF.",6:37 PM.,2:05.
+angels,746214,2024,2024-06-28,2024-06-29T01:38:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,2,4,35,46,37,45,5.0,2.0,True,34381,"76 degrees, Clear.","10 mph, R To L.",6:38 PM.,2:16.
+angels,746211,2024,2024-06-29,2024-06-30T02:07:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,3,4,36,46,37,46,6.0,5.0,True,39559,"77 degrees, Clear.","7 mph, R To L.",7:08 PM.,2:50.
+angels,746209,2024,2024-06-30,2024-06-30T20:07:00Z,day,N,1,Final,Angel Stadium,Detroit Tigers,4,4,36,47,38,46,6.0,7.0,False,35061,"87 degrees, Partly Cloudy.","6 mph, Out To CF.",1:08 PM.,2:42.
+angels,746208,2024,2024-07-08,2024-07-09T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,3,37,53,43,48,4.0,9.0,False,25193,"78 degrees, Clear.","10 mph, R To L.",6:38 PM.,2:38.
+angels,746206,2024,2024-07-09,2024-07-10T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,3,37,54,44,48,4.0,5.0,False,23791,"81 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:31.
+angels,746205,2024,2024-07-10,2024-07-11T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,3,3,38,54,44,49,7.0,2.0,True,23230,"81 degrees, Clear.","8 mph, R To L.",6:38 PM.,2:30.
+angels,746204,2024,2024-07-11,2024-07-12T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,4,38,55,52,43,0.0,11.0,False,26747,"77 degrees, Clear.","8 mph, R To L.",6:38 PM.,2:30.
+angels,746207,2024,2024-07-12,2024-07-13T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,4,39,55,52,44,6.0,5.0,True,31243,"75 degrees, Partly Cloudy.","6 mph, Out To CF.",6:38 PM.,2:48.
+angels,746202,2024,2024-07-13,2024-07-14T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,3,4,40,55,52,45,2.0,1.0,True,43273,"77 degrees, Clear.","10 mph, Out To CF.",6:38 PM.,2:14.
+angels,746201,2024,2024-07-14,2024-07-14T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,4,4,41,55,52,46,3.0,2.0,True,26015,"81 degrees, Partly Cloudy.","7 mph, Out To CF.",1:08 PM.,2:37.
+angels,746199,2024,2024-07-25,2024-07-26T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,1,4,45,58,42,63,5.0,6.0,False,25752,"88 degrees, Clear.","7 mph, R To L.",6:39 PM.,2:36.
+angels,746200,2024,2024-07-26,2024-07-27T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,2,4,45,59,43,63,4.0,5.0,False,28722,"77 degrees, Clear.","9 mph, Out To CF.",6:38 PM.,2:29.
+angels,746203,2024,2024-07-27,2024-07-28T01:38:00Z,night,N,1,Final,Angel Stadium,Oakland Athletics,3,4,45,60,44,63,1.0,3.0,False,33755,"80 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:23.
+angels,746195,2024,2024-07-28,2024-07-28T20:07:00Z,day,N,1,Final,Angel Stadium,Oakland Athletics,4,4,46,60,44,64,8.0,6.0,True,27016,"80 degrees, Sunny.","9 mph, Out To CF.",1:08 PM.,2:48.
+angels,746197,2024,2024-07-30,2024-07-31T01:38:00Z,night,N,1,Final,Angel Stadium,Colorado Rockies,1,3,47,60,38,70,10.0,7.0,True,25241,"79 degrees, Clear.","6 mph, Out To CF.",6:39 PM.,2:38.
+angels,746198,2024,2024-07-31,2024-08-01T01:38:00Z,night,N,1,Final,Angel Stadium,Colorado Rockies,2,3,47,61,39,70,1.0,2.0,False,23658,"80 degrees, Clear.","8 mph, R To L.",6:38 PM.,2:26.
+angels,746196,2024,2024-08-01,2024-08-02T01:38:00Z,night,N,1,Final,Angel Stadium,Colorado Rockies,3,3,47,62,40,70,4.0,5.0,False,27335,"79 degrees, Clear.","6 mph, Out To RF.",6:38 PM.,2:38.
+angels,746193,2024,2024-08-02,2024-08-03T01:38:00Z,night,N,1,Final,Angel Stadium,New York Mets,1,3,47,63,58,51,1.0,5.0,False,37012,"84 degrees, Partly Cloudy.","11 mph, Out To CF.",6:38 PM.,2:41.
+angels,746194,2024,2024-08-03,2024-08-04T01:38:00Z,night,N,1,Final,Angel Stadium,New York Mets,2,3,48,63,58,52,5.0,4.0,True,36377,"88 degrees, Clear.","8 mph, R To L.",6:38 PM.,2:50.
+angels,746191,2024,2024-08-04,2024-08-04T20:07:00Z,day,N,1,Final,Angel Stadium,New York Mets,3,3,49,63,58,53,3.0,2.0,True,37811,"87 degrees, Sunny.","7 mph, Out To CF.",1:08 PM.,2:46.
+angels,746192,2024,2024-08-12,2024-08-13T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,1,3,52,67,56,64,2.0,4.0,False,29676,"82 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:19.
+angels,746187,2024,2024-08-13,2024-08-14T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,2,3,52,68,57,64,1.0,6.0,False,30982,"81 degrees, Clear.","9 mph, R To L.",6:39 PM.,2:34.
+angels,746188,2024,2024-08-14,2024-08-15T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,3,3,52,69,58,64,2.0,9.0,False,28356,"82 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:22.
+angels,746189,2024,2024-08-16,2024-08-17T01:38:00Z,night,N,1,Final,Angel Stadium,Atlanta Braves,1,3,53,69,64,58,3.0,2.0,True,37736,"81 degrees, Partly Cloudy.","9 mph, R To L.",6:38 PM.,2:50.
+angels,746190,2024,2024-08-17,2024-08-18T01:38:00Z,night,N,1,Final,Angel Stadium,Atlanta Braves,2,3,53,70,65,58,3.0,11.0,False,37268,"76 degrees, Clear.","8 mph, R To L.",6:38 PM.,2:47.
+angels,746186,2024,2024-08-18,2024-08-18T20:07:00Z,day,N,1,Final,Angel Stadium,Atlanta Braves,3,3,53,71,66,58,1.0,3.0,False,36102,"83 degrees, Sunny.","9 mph, Out To LF.",1:07 PM.,2:22.
+angels,746184,2024,2024-08-30,2024-08-31T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,3,55,80,69,66,5.0,9.0,False,34435,"73 degrees, Clear.","10 mph, R To L.",6:39 PM.,2:54.
+angels,746182,2024,2024-08-31,2024-09-01T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,3,56,80,69,67,5.0,4.0,True,34253,"77 degrees, Clear.","7 mph, Out To LF.",6:38 PM.,2:36.
+angels,746183,2024,2024-09-01,2024-09-01T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,3,3,57,80,69,68,3.0,2.0,True,39370,"83 degrees, Sunny.","5 mph, Out To LF.",1:08 PM.,2:36.
+angels,746185,2024,2024-09-03,2024-09-04T01:38:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,1,2,57,81,84,55,2.0,6.0,False,44731,"82 degrees, Clear.","6 mph, Out To CF.",6:39 PM.,2:40.
+angels,746178,2024,2024-09-04,2024-09-05T01:38:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,2,2,58,81,84,56,10.0,1.0,True,44822,"93 degrees, Clear.","6 mph, Out To CF.",6:40 PM.,2:18.
+angels,746181,2024,2024-09-13,2024-09-14T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,3,60,87,79,68,3.0,5.0,False,36226,"73 degrees, Clear.","8 mph, Out To RF.",6:37 PM.,2:23.
+angels,746177,2024,2024-09-14,2024-09-15T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,3,60,88,80,68,3.0,5.0,False,39880,"72 degrees, Clear.","8 mph, R To L.",6:37 PM.,2:46.
+angels,746180,2024,2024-09-15,2024-09-15T20:07:00Z,day,N,1,Final,Angel Stadium,Houston Astros,3,3,60,89,81,68,4.0,6.0,False,41005,"76 degrees, Cloudy.","6 mph, Out To CF.",1:10 PM.,2:46.
+angels,746179,2024,2024-09-16,2024-09-17T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,1,3,60,90,36,115,4.0,8.0,False,35587,"68 degrees, Partly Cloudy.","12 mph, Out To CF.",6:39 PM.,2:41.
+angels,746176,2024,2024-09-17,2024-09-18T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,2,3,61,90,36,116,5.0,0.0,True,36254,"71 degrees, Partly Cloudy.","7 mph, Out To CF.",6:39 PM.,2:31.
+angels,746172,2024,2024-09-18,2024-09-18T20:07:00Z,day,N,1,Final,Angel Stadium,Chicago White Sox,3,3,62,90,36,117,4.0,3.0,True,22757,"75 degrees, Partly Cloudy.","8 mph, Out To CF.",1:08 PM.,3:35.
+angels,746173,2024,2024-09-27,2024-09-28T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,3,63,97,76,84,2.0,5.0,False,39308,"69 degrees, Partly Cloudy.","6 mph, Out To CF.",6:40 PM.,2:28.
+angels,746171,2024,2024-09-28,2024-09-29T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,3,63,98,77,84,8.0,9.0,False,41560,"71 degrees, Clear.","6 mph, R To L.",6:41 PM.,3:08.
+angels,746174,2024,2024-09-29,2024-09-29T19:07:00Z,day,N,1,Final,Angel Stadium,Texas Rangers,3,3,63,99,78,84,0.0,8.0,False,35145,"75 degrees, Sunny.","6 mph, Out To CF.",12:09 PM.,2:21.
+angels,778447,2025,2025-04-04,2025-04-05T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,1,3,4,3,3,4,6.0,8.0,False,44749,"65 degrees, Clear.","8 mph, Out To RF.",7:05 PM.,3:14.
+angels,778437,2025,2025-04-05,2025-04-06T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,2,3,5,3,3,5,10.0,4.0,True,41128,"75 degrees, Clear.","11 mph, Out To RF.",6:39 PM.,2:36.
+angels,778425,2025,2025-04-06,2025-04-06T20:07:00Z,day,N,1,Final,Angel Stadium,Cleveland Guardians,3,3,6,3,3,6,6.0,2.0,True,41480,"81 degrees, Sunny.","5 mph, Out To CF.",1:07 PM.,2:20.
+angels,778260,2025,2025-04-18,2025-04-19T01:38:00Z,night,N,1,Final,Angel Stadium,San Francisco Giants,1,3,10,9,13,7,2.0,0.0,True,43912,"60 degrees, Cloudy.","6 mph, R To L.",6:39 PM.,2:19.
+angels,778243,2025,2025-04-19,2025-04-20T01:38:00Z,night,N,1,Final,Angel Stadium,San Francisco Giants,2,3,10,10,14,7,2.0,3.0,False,44374,"69 degrees, Clear.","9 mph, Out To RF.",6:39 PM.,2:00.
+angels,778232,2025,2025-04-20,2025-04-20T20:07:00Z,day,N,1,Final,Angel Stadium,San Francisco Giants,3,3,11,10,14,8,5.0,4.0,True,36026,"75 degrees, Sunny.","6 mph, Out To CF.",1:07 PM.,3:00.
+angels,778211,2025,2025-04-22,2025-04-23T01:38:00Z,night,N,1,Final,Angel Stadium,Pittsburgh Pirates,1,3,11,11,9,15,3.0,9.0,False,30439,"64 degrees, Clear.","9 mph, Out To CF.",6:38 PM.,2:58.
+angels,778202,2025,2025-04-23,2025-04-24T01:38:00Z,night,N,1,Final,Angel Stadium,Pittsburgh Pirates,2,3,11,12,10,15,0.0,3.0,False,31256,"61 degrees, Cloudy.","7 mph, Varies.",6:39 PM.,2:24.
+angels,778191,2025,2025-04-24,2025-04-25T01:29:00Z,night,N,1,Final,Angel Stadium,Pittsburgh Pirates,3,3,12,12,10,16,4.0,3.0,True,29060,"63 degrees, Clear.","8 mph, Out To CF.",6:29 PM.,2:28.
+angels,778101,2025,2025-05-01,2025-05-02T01:38:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,1,4,12,18,20,12,4.0,10.0,False,28486,"67 degrees, Partly Cloudy.","9 mph, Out To CF.",6:37 PM.,2:42.
+angels,778085,2025,2025-05-02,2025-05-03T01:38:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,2,4,12,19,21,12,1.0,9.0,False,29870,"68 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:26.
+angels,778067,2025,2025-05-03,2025-05-04T01:38:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,3,4,13,19,21,13,5.0,2.0,True,31335,"61 degrees, Overcast.","7 mph, R To L.",6:38 PM.,2:16.
+angels,778050,2025,2025-05-04,2025-05-04T20:07:00Z,day,N,1,Final,Angel Stadium,Detroit Tigers,4,4,13,20,22,13,1.0,13.0,False,37554,"65 degrees, Overcast.","8 mph, Out To RF.",1:09 PM.,2:41.
+angels,778025,2025,2025-05-06,2025-05-07T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,1,3,14,20,16,19,8.0,3.0,True,25867,"61 degrees, Overcast.","7 mph, Out To CF.",6:40 PM.,2:43.
+angels,778009,2025,2025-05-07,2025-05-08T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,2,3,15,20,16,20,5.0,4.0,True,26646,"72 degrees, Clear.","9 mph, Out To CF.",6:39 PM.,2:46.
+angels,778000,2025,2025-05-08,2025-05-09T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,3,3,15,21,17,20,5.0,8.0,False,26245,"76 degrees, Clear.","5 mph, Out To CF.",6:39 PM.,2:51.
+angels,777986,2025,2025-05-09,2025-05-10T01:38:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,1,3,15,22,14,23,1.0,4.0,False,30778,"85 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:57.
+angels,777973,2025,2025-05-10,2025-05-11T01:38:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,2,3,16,22,14,24,5.0,2.0,True,27975,"89 degrees, Clear.","7 mph, R To L.",6:39 PM.,2:44.
+angels,777961,2025,2025-05-11,2025-05-11T20:07:00Z,day,N,1,Final,Angel Stadium,Baltimore Orioles,3,3,16,23,15,24,3.0,7.0,False,29460,"89 degrees, Partly Cloudy.","8 mph, Out To CF.",1:07 PM.,2:43.
+angels,777798,2025,2025-05-23,2025-05-24T01:38:00Z,night,N,1,Final,Angel Stadium,Miami Marlins,1,3,25,25,19,30,7.0,4.0,True,28116,"70 degrees, Clear.","4 mph, Varies.",6:38 PM.,2:51.
+angels,777781,2025,2025-05-24,2025-05-25T02:07:00Z,night,N,1,Final,Angel Stadium,Miami Marlins,2,3,25,26,20,30,2.0,6.0,False,29301,"68 degrees, Clear.","7 mph, R To L.",7:07 PM.,2:45.
+angels,777767,2025,2025-05-25,2025-05-25T20:07:00Z,day,N,1,Final,Angel Stadium,Miami Marlins,3,3,25,27,21,30,0.0,3.0,False,37074,"73 degrees, Partly Cloudy.","8 mph, Out To CF.",1:09 PM.,2:27.
+angels,777763,2025,2025-05-26,2025-05-27T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,1,3,25,28,33,20,1.0,5.0,False,43626,"68 degrees, Partly Cloudy.","2 mph, Out To CF.",6:38 PM.,2:37.
+angels,777745,2025,2025-05-27,2025-05-28T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,2,3,25,29,34,20,2.0,3.0,False,34491,"68 degrees, Clear.","10 mph, Out To LF.",6:39 PM.,2:44.
+angels,777728,2025,2025-05-28,2025-05-29T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,3,3,25,30,35,20,0.0,1.0,False,36808,"65 degrees, Partly Cloudy.","8 mph, Out To CF.",6:38 PM.,2:51.
+angels,777614,2025,2025-06-06,2025-06-07T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,3,29,33,32,30,5.0,4.0,True,34915,"70 degrees, Partly Cloudy.","10 mph, Out To CF.",6:39 PM.,2:22.
+angels,777603,2025,2025-06-07,2025-06-08T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,3,30,33,32,31,8.0,6.0,True,29407,"72 degrees, Clear.","8 mph, R To L.",6:38 PM.,3:06.
+angels,777589,2025,2025-06-08,2025-06-08T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,3,3,30,34,33,31,2.0,3.0,False,31416,"75 degrees, Sunny.","8 mph, Out To RF.",1:08 PM.,2:33.
+angels,777576,2025,2025-06-09,2025-06-10T01:38:00Z,night,N,1,Final,Angel Stadium,Athletics,1,3,31,34,26,42,7.0,4.0,True,24884,"70 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:26.
+angels,777564,2025,2025-06-10,2025-06-11T01:38:00Z,night,N,1,Final,Angel Stadium,Athletics,2,3,32,34,26,43,2.0,1.0,True,27480,"73 degrees, Clear.","9 mph, Out To CF.",6:38 PM.,2:44.
+angels,777542,2025,2025-06-11,2025-06-11T20:07:00Z,day,N,1,Final,Angel Stadium,Athletics,3,3,33,34,26,44,6.0,5.0,True,21741,"78 degrees, Sunny.","8 mph, Out To RF.",1:09 PM.,2:43.
+angels,777428,2025,2025-06-20,2025-06-21T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,3,36,39,44,32,2.0,3.0,False,29580,"71 degrees, Clear.","9 mph, Out To CF.",6:38 PM.,3:15.
+angels,777414,2025,2025-06-21,2025-06-22T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,3,37,39,44,33,9.0,1.0,True,32326,"72 degrees, Clear.","10 mph, R To L.",6:38 PM.,2:24.
+angels,777397,2025,2025-06-22,2025-06-22T20:07:00Z,day,N,1,Final,Angel Stadium,Houston Astros,3,3,37,40,45,33,7.0,8.0,False,29154,"77 degrees, Sunny.","8 mph, R To L.",1:08 PM.,2:38.
+angels,777381,2025,2025-06-23,2025-06-24T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,1,3,38,40,40,40,9.0,5.0,True,30137,"70 degrees, Clear.","9 mph, Out To LF.",6:38 PM.,2:52.
+angels,777376,2025,2025-06-24,2025-06-25T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,2,3,39,40,40,41,3.0,2.0,True,33115,"73 degrees, Clear.","8 mph, R To L.",6:39 PM.,2:51.
+angels,777362,2025,2025-06-25,2025-06-25T20:07:00Z,day,N,1,Final,Angel Stadium,Boston Red Sox,3,3,40,40,40,42,5.0,2.0,True,28301,"78 degrees, Sunny.","8 mph, Out To RF.",1:07 PM.,2:50.
+angels,777331,2025,2025-06-27,2025-06-28T01:38:00Z,night,N,1,Final,Angel Stadium,Washington Nationals,1,3,40,41,34,48,9.0,15.0,False,34289,"75 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,3:11.
+angels,777315,2025,2025-06-28,2025-06-29T01:38:00Z,night,N,1,Final,Angel Stadium,Washington Nationals,2,3,41,41,34,49,8.0,2.0,True,39623,"80 degrees, Clear.","7 mph, R To L.",6:39 PM.,2:27.
+angels,777305,2025,2025-06-29,2025-06-29T20:07:00Z,day,N,1,Final,Angel Stadium,Washington Nationals,3,3,41,42,35,49,4.0,7.0,False,33661,"82 degrees, Sunny.","6 mph, Out To CF.",1:08 PM.,3:11.
+angels,777200,2025,2025-07-07,2025-07-08T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,4,44,46,44,47,6.0,5.0,True,24382,"76 degrees, Clear.","6 mph, Out To CF.",6:38 PM.,2:54.
+angels,777180,2025,2025-07-08,2025-07-09T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,4,44,47,45,47,1.0,13.0,False,26368,"83 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:24.
+angels,777171,2025,2025-07-09,2025-07-10T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,3,4,45,47,45,48,11.0,8.0,True,25462,"82 degrees, Clear.","5 mph, R To L.",6:39 PM.,2:56.
+angels,777159,2025,2025-07-10,2025-07-11T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,4,4,45,48,46,48,4.0,11.0,False,27071,"79 degrees, Partly Cloudy.","6 mph, Varies.",6:38 PM.,2:38.
+angels,777150,2025,2025-07-11,2025-07-12T01:38:00Z,night,N,1,Final,Angel Stadium,Arizona Diamondbacks,1,3,46,48,46,49,6.0,5.0,True,35209,"74 degrees, Clear.","8 mph, Out To RF.",6:39 PM.,3:03.
+angels,777131,2025,2025-07-12,2025-07-13T01:38:00Z,night,N,1,Final,Angel Stadium,Arizona Diamondbacks,2,3,47,48,46,50,10.0,5.0,True,43008,"74 degrees, Clear.","8 mph, R To L.",6:39 PM.,2:46.
+angels,777115,2025,2025-07-13,2025-07-13T20:07:00Z,day,N,1,Final,Angel Stadium,Arizona Diamondbacks,3,3,47,49,47,50,1.0,5.0,False,26773,"79 degrees, Sunny.","6 mph, Out To CF.",1:08 PM.,2:43.
+angels,777018,2025,2025-07-24,2025-07-25T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,4,49,54,55,48,2.0,4.0,False,28532,"80 degrees, Partly Cloudy.","9 mph, Out To CF.",6:38 PM.,2:53.
+angels,777006,2025,2025-07-25,2025-07-26T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,4,50,54,55,49,3.0,2.0,True,37821,"73 degrees, Clear.","8 mph, R To L.",6:38 PM.,3:02.
+angels,776995,2025,2025-07-26,2025-07-27T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,3,4,50,55,56,49,2.0,7.0,False,40836,"74 degrees, Partly Cloudy.","8 mph, Out To CF.",6:39 PM.,2:52.
+angels,776977,2025,2025-07-27,2025-07-27T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,4,4,51,55,56,50,4.0,1.0,True,27219,"78 degrees, Sunny.","8 mph, Out To CF.",1:09 PM.,2:29.
+angels,776958,2025,2025-07-28,2025-07-29T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,3,52,55,56,51,6.0,4.0,True,24538,"77 degrees, Clear.","8 mph, Out To RF.",6:38 PM.,2:43.
+angels,776945,2025,2025-07-29,2025-07-30T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,3,53,55,56,52,8.0,5.0,True,26390,"78 degrees, Clear.","8 mph, Out To RF.",6:38 PM.,3:20.
+angels,776932,2025,2025-07-30,2025-07-31T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,3,3,53,56,57,52,3.0,6.0,False,27162,"78 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:42.
+angels,776916,2025,2025-08-01,2025-08-02T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,1,3,53,57,41,69,3.0,6.0,False,29937,"75 degrees, Clear.","5 mph, R To L.",6:39 PM.,2:51.
+angels,776898,2025,2025-08-02,2025-08-03T02:07:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,2,3,53,58,42,69,0.0,1.0,False,39161,"77 degrees, Clear.","7 mph, Out To CF.",7:09 PM.,2:15.
+angels,776885,2025,2025-08-03,2025-08-03T20:07:00Z,day,N,1,Final,Angel Stadium,Chicago White Sox,3,3,54,58,42,70,8.0,5.0,True,30963,"82 degrees, Sunny.","6 mph, Out To CF.",1:08 PM.,2:44.
+angels,776867,2025,2025-08-04,2025-08-05T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,1,3,55,58,55,59,5.0,1.0,True,25754,"78 degrees, Partly Cloudy.","7 mph, Out To CF.",6:38 PM.,2:33.
+angels,776848,2025,2025-08-05,2025-08-06T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,2,3,55,59,56,59,3.0,7.0,False,27018,"79 degrees, Partly Cloudy.","7 mph, Out To CF.",6:38 PM.,2:23.
+angels,776843,2025,2025-08-06,2025-08-06T20:07:00Z,day,N,1,Final,Angel Stadium,Tampa Bay Rays,3,3,55,60,57,59,4.0,5.0,False,22064,"89 degrees, Sunny.","8 mph, Out To CF.",1:08 PM.,2:53.
+angels,776779,2025,2025-08-11,2025-08-12T01:38:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,1,3,57,62,68,51,7.0,4.0,True,44571,"76 degrees, Clear.","9 mph, Out To CF.",6:38 PM.,2:50.
+angels,776763,2025,2025-08-12,2025-08-13T01:38:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,2,3,58,62,68,52,7.0,6.0,True,44741,"75 degrees, Clear.","10 mph, R To L.",6:38 PM.,3:14.
+angels,776752,2025,2025-08-13,2025-08-14T01:38:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,3,3,59,62,68,53,6.0,5.0,True,44893,"76 degrees, Clear.","10 mph, Out To CF.",6:39 PM.,3:00.
+angels,776681,2025,2025-08-18,2025-08-19T01:38:00Z,night,N,1,Final,Angel Stadium,Cincinnati Reds,1,3,60,65,66,60,1.0,4.0,False,25421,"78 degrees, Clear.","4 mph, Out To CF.",6:39 PM.,2:40.
+angels,776668,2025,2025-08-19,2025-08-20T01:38:00Z,night,N,1,Final,Angel Stadium,Cincinnati Reds,2,3,60,66,67,60,4.0,6.0,False,22276,"82 degrees, Clear.","6 mph, Out To CF.",6:39 PM.,2:30.
+angels,776652,2025,2025-08-20,2025-08-21T01:38:00Z,night,N,1,Final,Angel Stadium,Cincinnati Reds,3,3,61,66,67,61,2.0,1.0,True,27083,"87 degrees, Partly Cloudy.","8 mph, Out To RF.",6:38 PM.,2:17.
+angels,776640,2025,2025-08-22,2025-08-23T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago Cubs,1,3,61,67,74,55,2.0,3.0,False,39872,"83 degrees, Partly Cloudy.","7 mph, Out To RF.",6:38 PM.,2:24.
+angels,776618,2025,2025-08-23,2025-08-24T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago Cubs,2,3,61,68,75,55,1.0,12.0,False,44355,"87 degrees, Clear.","7 mph, Out To CF.",6:40 PM.,2:23.
+angels,776605,2025,2025-08-24,2025-08-24T20:07:00Z,day,N,1,Final,Angel Stadium,Chicago Cubs,3,3,61,69,76,55,3.0,4.0,False,41206,"88 degrees, Sunny.","4 mph, Out To CF.",1:09 PM.,2:43.
+angels,776444,2025,2025-09-05,2025-09-06T01:38:00Z,night,N,1,Final,Angel Stadium,Athletics,1,3,66,75,65,77,4.0,10.0,False,30779,"82 degrees, Clear.","6 mph, Out To CF.",6:38 PM.,2:57.
+angels,776430,2025,2025-09-06,2025-09-07T01:38:00Z,night,N,1,Final,Angel Stadium,Athletics,2,3,66,76,66,77,4.0,17.0,False,35816,"87 degrees, Clear.","3 mph, R To L.",6:38 PM.,2:59.
+angels,776414,2025,2025-09-07,2025-09-07T20:07:00Z,day,N,1,Final,Angel Stadium,Athletics,3,3,67,76,66,78,4.0,3.0,True,33053,"88 degrees, Sunny.","8 mph, R To L.",1:08 PM.,2:30.
+angels,776411,2025,2025-09-08,2025-09-09T01:38:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,1,3,67,77,64,80,3.0,12.0,False,28824,"79 degrees, Clear.","7 mph, Out To CF.",6:39 PM.,3:10.
+angels,776390,2025,2025-09-09,2025-09-10T01:38:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,2,3,68,77,64,81,12.0,2.0,True,29694,"75 degrees, Clear.","10 mph, Out To CF.",6:39 PM.,2:43.
+angels,776376,2025,2025-09-10,2025-09-10T20:07:00Z,day,N,1,Final,Angel Stadium,Minnesota Twins,3,3,69,77,64,82,4.0,3.0,True,20746,"79 degrees, Sunny.","8 mph, Out To CF.",1:08 PM.,2:29.
+angels,776207,2025,2025-09-23,2025-09-24T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,1,3,70,87,79,78,4.0,8.0,False,30861,"78 degrees, Partly Cloudy.","7 mph, R To L.",6:39 PM.,2:42.
+angels,776197,2025,2025-09-24,2025-09-25T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,2,3,71,87,79,79,3.0,2.0,True,29266,"79 degrees, Clear.","7 mph, Out To CF.",6:39 PM.,2:23.
+angels,776178,2025,2025-09-25,2025-09-26T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,3,3,71,88,80,79,4.0,9.0,False,35752,"72 degrees, Clear.","6 mph, Out To CF.",6:40 PM.,2:33.
+angels,776169,2025,2025-09-26,2025-09-27T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,3,72,88,85,75,4.0,3.0,True,37448,"71 degrees, Partly Cloudy.","2 mph, Out To CF.",6:39 PM.,2:41.
+angels,776155,2025,2025-09-27,2025-09-28T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,3,72,89,86,75,1.0,6.0,False,36487,"70 degrees, Cloudy.","9 mph, R To L.",6:39 PM.,2:26.
+angels,776135,2025,2025-09-28,2025-09-28T19:07:00Z,day,N,1,Final,Angel Stadium,Houston Astros,3,3,72,90,87,75,2.0,6.0,False,30609,"78 degrees, Partly Cloudy.","4 mph, Out To CF.",12:08 PM.,2:43.
+angels,824056,2026,2026-04-03,2026-04-04T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,3,3,5,4,4,1.0,3.0,False,44931,"77 degrees, Partly Cloudy.","12 mph, Out To LF.",7:05 PM.,2:54.
+angels,824054,2026,2026-04-04,2026-04-05T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,3,4,5,4,5,1.0,0.0,True,44084,"82 degrees, Partly Cloudy.","8 mph, Out To LF.",6:39 PM.,2:28.
+angels,824053,2026,2026-04-05,2026-04-05T20:07:00Z,day,N,1,Final,Angel Stadium,Seattle Mariners,3,3,5,5,4,6,8.0,7.0,True,27712,"83 degrees, Sunny.","2 mph, Calm.",1:08 PM.,3:37.
+angels,824052,2026,2026-04-06,2026-04-07T01:38:00Z,night,N,1,Final,Angel Stadium,Atlanta Braves,1,3,6,5,6,5,6.0,2.0,True,25471,"72 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:13.
+angels,824051,2026,2026-04-07,2026-04-08T01:38:00Z,night,N,1,Final,Angel Stadium,Atlanta Braves,2,3,6,6,7,5,2.0,7.0,False,40450,"72 degrees, Clear.","9 mph, Out To LF.",6:38 PM.,3:21.
+angels,824050,2026,2026-04-08,2026-04-08T20:07:00Z,day,N,1,Final,Angel Stadium,Atlanta Braves,3,3,6,7,8,5,2.0,8.0,False,21375,"74 degrees, Sunny.","4 mph, Out To CF.",1:07 PM.,2:45.
+angels,824048,2026,2026-04-17,2026-04-18T01:38:00Z,night,N,1,Final,Angel Stadium,San Diego Padres,1,3,11,10,13,7,8.0,0.0,True,44551,"74 degrees, Clear.","9 mph, Out To RF.",6:39 PM.,2:58.
+angels,824049,2026,2026-04-18,2026-04-19T01:38:00Z,night,N,1,Final,Angel Stadium,San Diego Padres,2,3,11,11,14,7,1.0,4.0,False,44279,"75 degrees, Partly Cloudy.","8 mph, R To L.",6:38 PM.,2:55.
+angels,824047,2026,2026-04-19,2026-04-19T20:07:00Z,day,N,1,Final,Angel Stadium,San Diego Padres,3,3,11,12,15,7,1.0,2.0,False,44560,"78 degrees, Cloudy.","8 mph, R To L.",1:07 PM.,2:52.
+angels,824046,2026,2026-04-20,2026-04-21T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,1,3,11,13,9,13,2.0,5.0,False,37897,"67 degrees, Partly Cloudy.","9 mph, Out To CF.",6:39 PM.,2:48.
+angels,824045,2026,2026-04-21,2026-04-22T01:38:00Z,night,N,1,Final,Angel Stadium,Toronto Blue Jays,2,3,11,14,10,13,2.0,4.0,False,28641,"67 degrees, Partly Cloudy.","9 mph, Out To CF.",6:39 PM.,2:27.
+angels,824044,2026,2026-04-22,2026-04-22T19:07:00Z,day,N,1,Final,Angel Stadium,Toronto Blue Jays,3,3,12,14,10,14,7.0,3.0,True,25306,"68 degrees, Partly Cloudy.","6 mph, Out To RF.",12:08 PM.,2:49.
+angels,824041,2026,2026-05-01,2026-05-02T01:38:00Z,night,N,1,Final,Angel Stadium,New York Mets,1,3,12,21,11,21,3.0,4.0,False,43959,"73 degrees, Clear.","8 mph, Out To RF.",6:39 PM.,2:34.
+angels,824042,2026,2026-05-02,2026-05-03T01:38:00Z,night,N,1,Final,Angel Stadium,New York Mets,2,3,13,21,11,22,4.0,3.0,True,42788,"70 degrees, Clear.","6 mph, R To L.",6:39 PM.,2:53.
+angels,824043,2026,2026-05-03,2026-05-03T20:07:00Z,day,N,1,Final,Angel Stadium,New York Mets,3,3,13,22,12,22,1.0,5.0,False,41614,"69 degrees, Cloudy.","8 mph, Out To CF.",1:08 PM.,2:36.
+angels,824039,2026,2026-05-04,2026-05-05T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,1,3,13,23,17,18,0.0,6.0,False,26262,"64 degrees, Cloudy.","9 mph, Out To CF.",6:39 PM.,2:18.
+angels,824040,2026,2026-05-05,2026-05-06T01:38:00Z,night,N,1,Final,Angel Stadium,Chicago White Sox,2,3,14,23,17,19,4.0,3.0,True,26892,"64 degrees, Partly Cloudy.","10 mph, Varies.",6:38 PM.,2:36.
+angels,824036,2026,2026-05-06,2026-05-06T20:07:00Z,day,N,1,Final,Angel Stadium,Chicago White Sox,3,3,15,23,17,20,8.0,2.0,True,23338,"74 degrees, Sunny.","8 mph, Out To LF.",1:08 PM.,2:34.
+angels,824037,2026,2026-05-15,2026-05-16T01:38:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,1,3,16,29,27,18,0.0,6.0,False,44887,"68 degrees, Clear.","7 mph, R To L.",6:42 PM.,2:30.
+angels,824038,2026,2026-05-16,2026-05-17T01:38:00Z,night,N,1,Final,Angel Stadium,Los Angeles Dodgers,2,3,16,30,28,18,2.0,15.0,False,44841,"68 degrees, Partly Cloudy.","8 mph, Out To RF.",6:40 PM.,2:57.
+angels,824034,2026,2026-05-17,2026-05-17T20:07:00Z,day,N,1,Final,Angel Stadium,Los Angeles Dodgers,3,3,16,31,29,18,1.0,10.0,False,44809,"70 degrees, Partly Cloudy.","8 mph, R To L.",1:09 PM.,2:28.
+angels,824035,2026,2026-05-18,2026-05-19T01:38:00Z,night,N,1,Final,Angel Stadium,Athletics,1,4,17,31,23,24,2.0,1.0,True,25776,"71 degrees, Clear.","8 mph, Out To CF.",6:40 PM.,2:21.
+angels,824033,2026,2026-05-19,2026-05-20T01:38:00Z,night,N,1,Final,Angel Stadium,Athletics,2,4,17,32,24,24,6.0,14.0,False,23803,"80 degrees, Clear.","7 mph, R To L.",6:40 PM.,3:00.
+angels,824032,2026,2026-05-20,2026-05-21T01:38:00Z,night,N,1,Final,Angel Stadium,Athletics,3,4,17,33,25,24,5.0,6.0,False,24588,"83 degrees, Clear.","9 mph, Out To RF.",6:38 PM.,2:51.
+angels,824031,2026,2026-05-21,2026-05-22T01:38:00Z,night,N,1,Final,Angel Stadium,Athletics,4,4,17,34,26,24,2.0,3.0,False,25848,"71 degrees, Clear.","9 mph, L To R.",6:39 PM.,2:54.
+angels,824029,2026,2026-05-22,2026-05-23T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,3,18,34,24,26,9.0,6.0,True,32488,"69 degrees, Partly Cloudy.","9 mph, Out To CF.",6:39 PM.,2:35.
+angels,824030,2026,2026-05-23,2026-05-24T02:05:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,3,19,34,24,27,5.0,2.0,True,31860,"68 degrees, Clear.","7 mph, R To L.",7:06 PM.,2:54.
+angels,824028,2026,2026-05-24,2026-05-24T23:20:00Z,day,N,1,Final,Angel Stadium,Texas Rangers,3,3,20,34,24,28,2.0,1.0,True,36903,"73 degrees, Sunny.","6 mph, Out To CF.",4:21 PM.,2:31.
+angels,824027,2026,2026-06-01,2026-06-02T01:38:00Z,night,N,1,Final,Angel Stadium,Colorado Rockies,1,3,23,38,23,38,8.0,9.0,False,27165,"70 degrees, Clear.","8 mph, Out To LF.",6:39 PM.,3:12.
+angels,824026,2026,2026-06-02,2026-06-03T01:38:00Z,night,N,1,Final,Angel Stadium,Colorado Rockies,2,3,23,39,24,38,2.0,8.0,False,26426,"76 degrees, Partly Cloudy.","9 mph, Out To CF.",6:38 PM.,2:53.
+angels,824024,2026,2026-06-03,2026-06-04T01:38:00Z,night,N,1,Final,Angel Stadium,Colorado Rockies,3,3,24,39,24,39,11.0,4.0,True,26554,"72 degrees, Clear.","7 mph, R To L.",6:38 PM.,2:43.
+angels,824025,2026,2026-06-08,2026-06-09T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,3,25,42,31,37,4.0,5.0,False,25474,"72 degrees, Partly Cloudy.","9 mph, Out To LF.",6:39 PM.,3:04.
+angels,824023,2026,2026-06-09,2026-06-10T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,3,26,42,31,38,10.0,1.0,True,24767,"74 degrees, Clear.","5 mph, R To L.",6:39 PM.,2:47.
+angels,824022,2026,2026-06-10,2026-06-11T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,3,3,27,42,31,39,3.0,2.0,True,25179,"75 degrees, Clear.","9 mph, Out To LF.",6:38 PM.,2:31.
+angels,824020,2026,2026-06-12,2026-06-13T01:38:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,1,3,28,42,40,26,4.0,3.0,True,37023,"80 degrees, Clear.","8 mph, R To L.",6:38 PM.,2:42.
+angels,824019,2026,2026-06-13,2026-06-14T02:07:00Z,night,N,1,Final,Angel Stadium,Tampa Bay Rays,2,3,29,42,40,27,8.0,0.0,True,34030,"76 degrees, Clear.","8 mph, Out To RF.",7:08 PM.,2:37.
+angels,824021,2026,2026-06-14,2026-06-14T20:07:00Z,day,N,1,Final,Angel Stadium,Tampa Bay Rays,3,3,29,43,41,27,3.0,8.0,False,34048,"81 degrees, Sunny.","8 mph, R To L.",1:08 PM.,2:51.
+angels,824016,2026,2026-06-22,2026-06-23T01:38:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,1,3,32,48,38,42,1.0,6.0,False,28431,"74 degrees, Clear.","10 mph, Out To CF.",6:39 PM.,2:34.
+angels,824017,2026,2026-06-23,2026-06-24T01:38:00Z,night,N,1,Final,Angel Stadium,Baltimore Orioles,2,3,33,48,38,43,5.0,1.0,True,31569,"73 degrees, Partly Cloudy.","8 mph, Out To CF.",6:38 PM.,2:22.
+angels,824018,2026,2026-06-24,2026-06-24T20:07:00Z,day,N,1,Final,Angel Stadium,Baltimore Orioles,3,3,34,48,38,44,7.0,6.0,True,27585,"81 degrees, Sunny.","9 mph, Out To CF.",1:08 PM.,3:17.
+angels,824014,2026,2026-06-26,2026-06-27T01:38:00Z,night,N,1,Final,Angel Stadium,Athletics,1,3,34,49,40,42,3.0,9.0,False,29089,"72 degrees, Clear.","4 mph, R To L.",6:39 PM.,2:56.
+angels,824015,2026,2026-06-27,2026-06-28T01:38:00Z,night,N,1,Final,Angel Stadium,Athletics,2,3,35,49,40,43,5.0,2.0,True,37064,"73 degrees, Clear.","10 mph, Varies.",6:38 PM.,2:41.
+angels,824011,2026,2026-06-28,2026-06-28T19:15:00Z,day,N,1,Final,Angel Stadium,Athletics,3,3,36,49,40,44,4.0,1.0,True,32557,"72 degrees, Partly Cloudy.","10 mph, Out To CF.",12:18 PM.,2:29.
+angels,824013,2026,2026-07-03,2026-07-04T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,1,3,36,53,38,48,2.0,5.0,False,43747,"77 degrees, Partly Cloudy.","8 mph, Out To CF.",6:38 PM.,2:35.
+angels,824012,2026,2026-07-04,2026-07-05T01:38:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,2,3,36,54,39,48,1.0,8.0,False,43599,"78 degrees, Partly Cloudy.","8 mph, Out To CF.",6:39 PM.,2:38.
+angels,824010,2026,2026-07-05,2026-07-06T01:30:00Z,night,N,1,Final,Angel Stadium,Boston Red Sox,3,3,36,55,40,48,5.0,7.0,False,35992,"79 degrees, Clear.","8 mph, Out To RF.",6:35 PM.,2:57.
+angels,824009,2026,2026-07-17,2026-07-18T01:38:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,1,3,38,60,45,52,1.0,2.0,False,29536,"80 degrees, Clear.","9 mph, Out To RF.",6:39 PM.,2:40.
+angels,824008,2026,2026-07-18,2026-07-19T02:07:00Z,night,N,1,Final,Angel Stadium,Detroit Tigers,2,3,38,61,46,52,0.0,7.0,False,32003,"79 degrees, Clear.","6 mph, R To L.",7:08 PM.,2:29.
+angels,824007,2026,2026-07-19,2026-07-19T20:07:00Z,day,N,1,Final,Angel Stadium,Detroit Tigers,3,3,39,61,46,53,3.0,2.0,True,30778,"84 degrees, Sunny.","9 mph, Out To CF.",1:08 PM.,2:48.
+angels,824006,2026,2026-07-20,2026-07-21T02:10:00Z,night,N,1,Final,Angel Stadium,St. Louis Cardinals,1,3,40,61,51,48,3.0,2.0,True,29794,"79 degrees, Partly Cloudy.","8 mph, Out To RF.",7:10 PM.,2:30.
+angels,824005,2026,2026-07-21,2026-07-22T01:38:00Z,night,N,1,Final,Angel Stadium,St. Louis Cardinals,2,3,41,61,51,49,5.0,1.0,True,33151,"83 degrees, Clear.","9 mph, Out To CF.",6:39 PM.,2:31.
+angels,824004,2026,2026-07-22,2026-07-22T20:07:00Z,day,N,1,Final,Angel Stadium,St. Louis Cardinals,3,3,41,62,52,49,0.0,1.0,False,25187,"84 degrees, Sunny.","8 mph, Out To RF.",1:08 PM.,2:32.
+angels,824001,2026,2026-07-27,2026-07-28T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,1,3,42,65,53,55,4.0,6.0,False,30121,"82 degrees, Clear.","9 mph, Out To RF.",6:39 PM.,3:18.
+angels,824003,2026,2026-07-28,2026-07-29T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,2,3,42,66,54,55,2.0,3.0,False,32051,"81 degrees, Clear.","6 mph, R To L.",6:38 PM.,2:53.
+angels,824002,2026,2026-07-29,2026-07-30T01:38:00Z,night,N,1,Final,Angel Stadium,Houston Astros,3,3,42,67,55,55,4.0,7.0,False,26417,"81 degrees, Partly Cloudy.","8 mph, R To L.",6:40 PM.,2:50.
+angels,823999,2026,2026-07-31,2026-08-01T01:38:00Z,night,N,1,Final,Angel Stadium,Milwaukee Brewers,1,3,42,68,68,41,2.0,6.0,False,43720,"84 degrees, Clear.","8 mph, Out To CF.",6:39 PM.,2:45.
+angels,824000,2026,2026-08-01,2026-08-02T01:38:00Z,night,N,1,Final,Angel Stadium,Milwaukee Brewers,2,3,42,69,69,41,1.0,3.0,False,31124,"84 degrees, Clear.","8 mph, Out To CF.",6:38 PM.,2:34.
+angels,823996,2026,2026-08-02,2026-08-02T19:15:00Z,day,N,1,Final,Angel Stadium,Milwaukee Brewers,3,3,43,69,69,42,3.0,0.0,True,31061,"87 degrees, Sunny.","7 mph, R To L.",12:15 PM.,2:25.
+angels,823998,2026,2026-08-10,2026-08-11T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,1,4,45,74,60,59,1.0,4.0,False,23880,"81 degrees, Partly Cloudy.","7 mph, R To L.",6:39 PM.,3:24.
+angels,823997,2026,2026-08-11,2026-08-12T01:38:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,2,4,46,74,60,60,3.0,2.0,True,23648,"83 degrees, Clear.","7 mph, R To L.",6:39 PM.,2:17.
+angels,823994,2026,2026-08-12,2026-08-13T02:10:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,3,4,47,74,60,61,5.0,2.0,True,33733,"78 degrees, Partly Cloudy.","8 mph, Out To CF.",7:11 PM.,2:58.
+angels,823995,2026,2026-08-13,2026-08-14T02:07:00Z,night,N,1,Final,Angel Stadium,Texas Rangers,4,4,48,74,60,62,7.0,0.0,True,24959,"75 degrees, Partly Cloudy.","7 mph, Out To CF.",7:08 PM.,2:44.
+angels,823993,2026,2026-08-14,2026-08-15T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,1,3,48,75,50,73,6.0,7.0,False,23139,"78 degrees, Clear.","8 mph, Out To LF.",6:39 PM.,2:47.
+angels,823990,2026,2026-08-15,2026-08-16T01:38:00Z,night,N,1,Final,Angel Stadium,Kansas City Royals,2,3,49,75,50,74,1.0,0.0,True,30002,"78 degrees, Clear.","7 mph, R To L.",6:40 PM.,2:05.
+angels,823991,2026,2026-08-16,2026-08-16T20:07:00Z,day,N,1,Final,Angel Stadium,Kansas City Royals,3,3,49,76,51,74,0.0,3.0,False,28036,"84 degrees, Sunny.","8 mph, R To L.",1:08 PM.,2:16.
+angels,823992,2026,2026-08-24,2026-08-25T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,1,3,52,80,66,66,2.0,4.0,False,26302,"88 degrees, Clear.","7 mph, R To L.",6:39 PM.,2:33.
+angels,823989,2026,2026-08-25,2026-08-26T01:38:00Z,night,N,1,Final,Angel Stadium,Cleveland Guardians,2,3,52,81,67,66,6.0,8.0,False,26001,"87 degrees, Clear.","9 mph, Out To LF.",6:38 PM.,3:23.
+angels,823988,2026,2026-08-26,2026-08-26T20:07:00Z,day,N,1,Final,Angel Stadium,Cleveland Guardians,3,3,52,82,68,66,3.0,4.0,False,25161,"92 degrees, Sunny.","4 mph, Out To CF.",1:09 PM.,2:41.
+angels,823985,2026,2026-08-28,2026-08-29T01:38:00Z,night,N,1,Final,Angel Stadium,Philadelphia Phillies,1,3,52,83,75,60,3.0,5.0,False,34951,"89 degrees, Clear.","5 mph, R To L.",6:38 PM.,2:56.
+angels,823986,2026,2026-08-29,2026-08-30T02:07:00Z,night,N,1,Final,Angel Stadium,Philadelphia Phillies,2,3,52,84,76,60,2.0,4.0,False,38677,"84 degrees, Clear.","6 mph, R To L.",7:08 PM.,3:00.
+angels,823987,2026,2026-08-30,2026-08-30T20:07:00Z,day,N,1,Final,Angel Stadium,Philadelphia Phillies,3,3,52,85,77,60,2.0,5.0,False,31035,"90 degrees, Sunny.","8 mph, R To L.",1:08 PM.,2:53.
+angels,823982,2026,2026-08-31,2026-09-01T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,1,3,53,85,78,60,10.0,1.0,True,37613,"79 degrees, Clear.","8 mph, Out To LF.",6:38 PM.,2:43.
+angels,823984,2026,2026-09-01,2026-09-02T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,2,3,53,86,79,60,3.0,7.0,False,37678,"78 degrees, Clear.","6 mph, R To L.",6:39 PM.,2:56.
+angels,823983,2026,2026-09-02,2026-09-03T01:38:00Z,night,N,1,Final,Angel Stadium,New York Yankees,3,3,53,87,80,60,3.0,6.0,False,38372,"78 degrees, Clear.","6 mph, R To L.",6:39 PM.,3:01.
+angels,823981,2026,2026-09-14,2026-09-15T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,1,3,57,93,70,81,6.0,4.0,True,28311,"75 degrees, Clear.","4 mph, Out To CF.",6:38 PM.,2:29.
+angels,823980,2026,2026-09-15,2026-09-16T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,2,3,58,93,70,82,2.0,1.0,True,30906,"75 degrees, Clear.","10 mph, Out To CF.",6:40 PM.,2:27.
+angels,823979,2026,2026-09-16,2026-09-17T01:38:00Z,night,N,1,Final,Angel Stadium,Seattle Mariners,3,3,58,94,71,82,2.0,7.0,False,38906,"74 degrees, Clear.","8 mph, Out To LF.",6:38 PM.,3:09.
+angels,823978,2026,2026-09-17,2026-09-18T01:38:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,1,4,59,94,71,82,5.0,4.0,True,34251,"75 degrees, Clear.","9 mph, Varies.",6:39 PM.,2:58.
+angels,823977,2026,2026-09-18,2026-09-19T01:38:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,2,4,59,95,72,82,0.0,3.0,False,35237,"75 degrees, Clear.","8 mph, Out To CF.",6:39 PM.,2:19.
+angels,823976,2026,2026-09-19,2026-09-20T01:38:00Z,night,N,1,Final,Angel Stadium,Minnesota Twins,3,4,60,95,72,83,6.0,5.0,True,33726,"77 degrees, Clear.","6 mph, R To L.",6:38 PM.,3:37.
+angels,823975,2026,2026-09-20,2026-09-20T20:07:00Z,day,N,1,Final,Angel Stadium,Minnesota Twins,4,4,60,96,73,83,0.0,8.0,False,32240,"80 degrees, Sunny.","4 mph, R To L.",1:09 PM.,2:40.

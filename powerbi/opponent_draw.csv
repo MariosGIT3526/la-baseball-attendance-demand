@@ -1,0 +1,59 @@
+opponent,games,opp_draw,team
+Los Angeles Angels,12,1026.0,dodgers
+New York Yankees,6,898.0,dodgers
+Baltimore Orioles,3,895.0,dodgers
+San Francisco Giants,36,847.0,dodgers
+Pittsburgh Pirates,16,706.0,dodgers
+Atlanta Braves,16,576.0,dodgers
+Cincinnati Reds,14,259.0,dodgers
+Minnesota Twins,8,205.0,dodgers
+St. Louis Cardinals,13,163.0,dodgers
+Houston Astros,8,150.0,dodgers
+San Diego Padres,35,148.0,dodgers
+Washington Nationals,12,76.0,dodgers
+Boston Red Sox,3,65.0,dodgers
+Kansas City Royals,3,21.0,dodgers
+Chicago Cubs,17,11.0,dodgers
+Seattle Mariners,3,-16.0,dodgers
+Tampa Bay Rays,3,-22.0,dodgers
+Chicago White Sox,6,-31.0,dodgers
+Miami Marlins,12,-39.0,dodgers
+Texas Rangers,3,-110.0,dodgers
+Athletics,6,-137.0,dodgers
+Colorado Rockies,33,-163.0,dodgers
+Detroit Tigers,9,-248.0,dodgers
+Cleveland Guardians,6,-301.0,dodgers
+Toronto Blue Jays,6,-396.0,dodgers
+New York Mets,18,-430.0,dodgers
+Philadelphia Phillies,15,-562.0,dodgers
+Milwaukee Brewers,15,-1177.0,dodgers
+Arizona Diamondbacks,34,-1434.0,dodgers
+Los Angeles Dodgers,9,5862.0,angels
+New York Yankees,15,5446.0,angels
+Chicago White Sox,13,1216.0,angels
+Minnesota Twins,12,812.0,angels
+Boston Red Sox,16,795.0,angels
+San Francisco Giants,8,783.0,angels
+San Diego Padres,5,654.0,angels
+Kansas City Royals,13,532.0,angels
+Pittsburgh Pirates,6,394.0,angels
+Washington Nationals,9,312.0,angels
+Chicago Cubs,6,248.0,angels
+Arizona Diamondbacks,6,6.0,angels
+Atlanta Braves,3,-46.0,angels
+Toronto Blue Jays,16,-362.0,angels
+New York Mets,6,-380.0,angels
+Athletics,36,-510.0,angels
+Cleveland Guardians,14,-614.0,angels
+Houston Astros,35,-694.0,angels
+Texas Rangers,32,-816.0,angels
+Detroit Tigers,18,-822.0,angels
+Milwaukee Brewers,3,-848.0,angels
+St. Louis Cardinals,3,-875.0,angels
+Seattle Mariners,37,-960.0,angels
+Miami Marlins,8,-972.0,angels
+Cincinnati Reds,6,-1048.0,angels
+Baltimore Orioles,15,-1125.0,angels
+Colorado Rockies,6,-1205.0,angels
+Philadelphia Phillies,3,-1245.0,angels
+Tampa Bay Rays,12,-2645.0,angels

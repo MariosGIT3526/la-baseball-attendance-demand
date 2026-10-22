@@ -1,0 +1,18 @@
+# secrets & environment
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# raw API dumps & local database
+raw/
+*.db
+*.sqbpro
+
+# scratch / superseded files
+test.py
+explore_and_model.ipynb
+dodgers_2026_predictions_with_promos.csv
+dodgers_promos_2026.csv
+dodgers_events.csv
+seatgeek_events.csv

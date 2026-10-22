@@ -1,0 +1,163 @@
+official_date,season,opponent,day_of_week,attendance,predicted,error,promo_item,promo_category,any_bobblehead
+2025-03-27,2025,Detroit Tigers,4,53595,48443.28433665628,5151.715663343719,,no_listed_promo,False
+2025-03-28,2025,Detroit Tigers,5,52029,47935.31641823872,4093.683581761281,,no_listed_promo,False
+2025-03-29,2025,Detroit Tigers,6,51788,48160.31518466796,3627.684815332039,Orel Hershiser Jersey,apparel_other,False
+2025-03-31,2025,Atlanta Braves,1,50816,44943.26271897341,5872.737281026588,Dodgers Hoodie,apparel_other,False
+2025-04-01,2025,Atlanta Braves,2,50182,49244.50523863896,937.494761361042,,no_listed_promo,False
+2025-04-02,2025,Atlanta Braves,3,50281,46844.49119759374,3436.508802406257,Shohei Ohtani MVP Bobblehead,star_bobblehead,True
+2025-04-11,2025,Chicago Cubs,5,53933,52435.27801940935,1497.7219805906498,Freddie Freeman Bobblehead,star_bobblehead,True
+2025-04-12,2025,Chicago Cubs,6,53887,52316.05647699882,1570.9435230011804,,no_listed_promo,False
+2025-04-13,2025,Chicago Cubs,0,50899,52674.98601353835,-1775.9860135383497,,no_listed_promo,False
+2025-04-14,2025,Colorado Rockies,1,52693,47909.92859610387,4783.0714038961305,Hello Kitty Squish Plush,pop_culture,False
+2025-04-15,2025,Colorado Rockies,2,53198,50190.68827234492,3007.3117276550765,Jackie Robinson Jersey,apparel_other,False
+2025-04-16,2025,Colorado Rockies,3,52143,48769.25702300059,3373.7429769994123,,no_listed_promo,False
+2025-04-25,2025,Pittsburgh Pirates,5,53655,51271.17898259725,2383.821017402748,,no_listed_promo,False
+2025-04-26,2025,Pittsburgh Pirates,6,54012,51591.91023201096,2420.0897679890404,Dave Roberts Bobblehead,role_bobblehead,True
+2025-04-27,2025,Pittsburgh Pirates,0,49512,48924.77065287376,587.2293471262383,,no_listed_promo,False
+2025-04-28,2025,Miami Marlins,1,48232,49118.686008168654,-886.6860081686536,,no_listed_promo,False
+2025-04-29,2025,Miami Marlins,2,46502,51051.320700746764,-4549.3207007467645,,no_listed_promo,False
+2025-04-30,2025,Miami Marlins,3,47192,43759.65606518788,3432.3439348121174,,no_listed_promo,False
+2025-05-13,2025,Athletics,2,45161,49805.12683197787,-4644.126831977868,Mookie Betts Bobblehead,star_bobblehead,True
+2025-05-14,2025,Athletics,3,50071,48946.49524480555,1124.5047551944517,,no_listed_promo,False
+2025-05-15,2025,Athletics,4,51272,50812.06821454248,459.93178545752016,Shohei Ohtani 50/50 Bobblehead,star_bobblehead,True
+2025-05-16,2025,Los Angeles Angels,5,46273,49058.48517791714,-2785.4851779171368,,no_listed_promo,False
+2025-05-17,2025,Los Angeles Angels,6,50084,49237.59519071492,846.404809285079,,no_listed_promo,False
+2025-05-18,2025,Los Angeles Angels,0,51997,47461.69559980251,4535.304400197492,,no_listed_promo,False
+2025-05-19,2025,Arizona Diamondbacks,1,41372,48033.9584739384,-6661.958473938401,Vin Scully Bobblehead,legend_bobblehead,True
+2025-05-20,2025,Arizona Diamondbacks,2,51932,50432.30719813271,1499.6928018672916,,no_listed_promo,False
+2025-05-21,2025,Arizona Diamondbacks,3,43517,49024.648152674796,-5507.648152674796,Will Smith Bobblehead,role_bobblehead,True
+2025-05-30,2025,New York Yankees,5,53276,50687.66298090443,2588.3370190955684,,no_listed_promo,False
+2025-05-31,2025,New York Yankees,6,51746,49277.048446791894,2468.951553208106,,no_listed_promo,False
+2025-06-01,2025,New York Yankees,0,54031,52674.657491792896,1356.3425082071044,,no_listed_promo,False
+2025-06-02,2025,New York Mets,1,48556,49771.01068697452,-1215.0106869745214,Tommy Edman Bobblehead,role_bobblehead,True
+2025-06-03,2025,New York Mets,2,53424,51503.62767183743,1920.3723281625716,,no_listed_promo,False
+2025-06-04,2025,New York Mets,3,45733,50244.83220398231,-4511.832203982311,Sandy Koufax Brooklyn Dodgers Jersey,apparel_other,False
+2025-06-05,2025,New York Mets,4,46364,47735.55354880233,-1371.5535488023306,,no_listed_promo,False
+2025-06-13,2025,San Francisco Giants,5,53022,51912.45660524552,1109.5433947544807,,no_listed_promo,False
+2025-06-14,2025,San Francisco Giants,6,51548,53207.657631923976,-1659.6576319239757,,no_listed_promo,False
+2025-06-15,2025,San Francisco Giants,0,53980,52868.7601892803,1111.2398107197005,Father's Day Bucket Hat,apparel_other,False
+2025-06-16,2025,San Diego Padres,1,53207,50017.885987992115,3189.1140120078853,Blake Snell Bobblehead,role_bobblehead,True
+2025-06-17,2025,San Diego Padres,2,51555,52300.8132617526,-745.8132617525989,World Series Replica Trophy,championship_item,False
+2025-06-18,2025,San Diego Padres,3,53568,50652.0545821995,2915.9454178005035,Gold Player Jerseys,championship_item,False
+2025-06-19,2025,San Diego Padres,4,53280,52759.28354166075,520.7164583392514,,no_listed_promo,False
+2025-06-20,2025,Washington Nationals,5,46558,51126.51855332491,-4568.51855332491,,no_listed_promo,False
+2025-06-21,2025,Washington Nationals,6,54154,52267.362690986025,1886.637309013975,Ice Cube Bobblehead,celebrity_crossover,True
+2025-06-22,2025,Washington Nationals,0,48177,49115.54843393225,-938.5484339322502,,no_listed_promo,False
+2025-07-01,2025,Chicago White Sox,2,51368,49562.091285785595,1805.9087142144053,,no_listed_promo,False
+2025-07-02,2025,Chicago White Sox,3,53536,48182.319482274506,5353.680517725494,Yoshinobu Yamamoto Bobblehead,star_bobblehead,True
+2025-07-03,2025,Chicago White Sox,4,53530,50695.99683813841,2834.0031618615903,,no_listed_promo,False
+2025-07-04,2025,Houston Astros,5,53377,50381.29093335177,2995.7090666482327,,no_listed_promo,False
+2025-07-05,2025,Houston Astros,6,49744,49955.35307184973,-211.3530718497277,,no_listed_promo,False
+2025-07-06,2025,Houston Astros,0,41291,49152.69109741736,-7861.691097417359,,no_listed_promo,False
+2025-07-18,2025,Milwaukee Brewers,5,49281,50846.474972246964,-1565.4749722469642,Ron Cey 'Legends of Dodger Baseball' Bobblehead,legend_bobblehead,True
+2025-07-19,2025,Milwaukee Brewers,6,53540,51093.13577078993,2446.8642292100703,Fernando Valenzuela Bobblehead,legend_bobblehead,True
+2025-07-20,2025,Milwaukee Brewers,0,40376,48676.922340480065,-8300.922340480065,,no_listed_promo,False
+2025-07-21,2025,Minnesota Twins,1,51121,47874.33561679203,3246.6643832079717,World Series Player Rings,championship_item,False
+2025-07-22,2025,Minnesota Twins,2,45074,49946.75926050871,-4872.759260508712,Teoscar Hernandez Bobblehead,role_bobblehead,True
+2025-07-23,2025,Minnesota Twins,3,40094,43740.9676812925,-3646.9676812925027,,no_listed_promo,False
+2025-08-04,2025,St. Louis Cardinals,1,46628,47973.69023020479,-1345.6902302047893,Roki Sasaki Bobblehead,star_bobblehead,True
+2025-08-05,2025,St. Louis Cardinals,2,50477,50209.3013991758,267.698600824202,Hello Kitty Item,pop_culture,False
+2025-08-06,2025,St. Louis Cardinals,3,44621,43812.74485936831,808.2551406316925,Shohei Ohtani World Series Ring,championship_item,False
+2025-08-08,2025,Toronto Blue Jays,5,53825,50743.98155166463,3081.0184483353733,Kobe Bryant Bobblehead,celebrity_crossover,True
+2025-08-09,2025,Toronto Blue Jays,6,44727,50979.26866488205,-6252.268664882053,,no_listed_promo,False
+2025-08-10,2025,Toronto Blue Jays,0,41557,48403.6216024832,-6846.621602483203,,no_listed_promo,False
+2025-08-15,2025,San Diego Padres,5,53119,50361.51215524154,2757.4878447584633,,no_listed_promo,False
+2025-08-16,2025,San Diego Padres,6,53606,50648.34777966375,2957.6522203362474,Blake Treinen Bobblehead,role_bobblehead,True
+2025-08-17,2025,San Diego Padres,0,48189,48246.38805994316,-57.388059943157714,,no_listed_promo,False
+2025-08-25,2025,Cincinnati Reds,1,49702,48030.38313686614,1671.6168631338587,Mookie Betts World Series Ring,championship_item,False
+2025-08-26,2025,Cincinnati Reds,2,44943,49919.960226546464,-4976.960226546464,,no_listed_promo,False
+2025-08-27,2025,Cincinnati Reds,3,49199,47424.81360362859,1774.1863963714131,Shohei Ohtani 50/50 Bobblehead,star_bobblehead,True
+2025-08-29,2025,Arizona Diamondbacks,5,45701,50682.43366807246,-4981.433668072459,,no_listed_promo,False
+2025-08-30,2025,Arizona Diamondbacks,6,47632,50968.35780391626,-3336.3578039162603,,no_listed_promo,False
+2025-08-31,2025,Arizona Diamondbacks,0,51803,48268.80746286418,3534.192537135823,Kike Hernandez Bobblehead,role_bobblehead,True
+2025-09-08,2025,Colorado Rockies,1,48433,45978.035194853015,2454.964805146985,,no_listed_promo,False
+2025-09-09,2025,Colorado Rockies,2,44126,47917.105378527696,-3791.1053785276963,,no_listed_promo,False
+2025-09-10,2025,Colorado Rockies,3,50805,46620.24343131844,4184.756568681558,Shohei Ohtani Bobblehead,star_bobblehead,True
+2025-09-15,2025,Philadelphia Phillies,1,43602,47510.01921234547,-3908.019212345469,Freddie Freeman World Series Ring,championship_item,False
+2025-09-16,2025,Philadelphia Phillies,2,44063,49829.96718815905,-5766.9671881590475,,no_listed_promo,False
+2025-09-17,2025,Philadelphia Phillies,3,50859,47988.76224115024,2870.237758849762,,no_listed_promo,False
+2025-09-18,2025,San Francisco Giants,4,41225,49587.4740838475,-8362.474083847497,Tyler Glasnow Bobblehead,role_bobblehead,True
+2025-09-19,2025,San Francisco Giants,5,53037,48647.73586261285,4389.264137387152,Joe Davis Bobblehead (MLB.com date; preseason list said Jul 6),role_bobblehead,True
+2025-09-20,2025,San Francisco Giants,6,53251,49034.29489366655,4216.705106333451,Clayton Kershaw Bobblehead,star_bobblehead,True
+2025-09-21,2025,San Francisco Giants,0,46601,46453.416919344905,147.58308065509482,,no_listed_promo,False
+2026-03-26,2026,Arizona Diamondbacks,4,53712,50448.85993288561,3263.140067114393,,no_listed_promo,False
+2026-03-27,2026,Arizona Diamondbacks,5,51540,51385.58243957781,154.41756042218913,,no_listed_promo,False
+2026-03-28,2026,Arizona Diamondbacks,6,53340,52196.715393006794,1143.2846069932057,Will Smith 'Game 7 Home Run' Bobblehead,role_bobblehead,True
+2026-03-30,2026,Cleveland Guardians,1,52173,50579.73018722709,1593.269812772909,Back-to-Back World Champions Hoodie,championship_item,False
+2026-03-31,2026,Cleveland Guardians,2,53614,51125.73264051794,2488.267359482059,Mystery Bobblehead,role_bobblehead,True
+2026-04-01,2026,Cleveland Guardians,3,45556,49996.98671584432,-4440.986715844323,,no_listed_promo,False
+2026-04-10,2026,Texas Rangers,5,53675,53150.91665686456,524.0833431354404,Shohei Ohtani 'Greatest Game' Bobblehead Part 1,star_bobblehead,True
+2026-04-11,2026,Texas Rangers,6,53617,53709.27825218468,-92.27825218468206,Teacher Appreciation Night,ticket_package_night,False
+2026-04-12,2026,Texas Rangers,0,48530,50354.087568526185,-1824.0875685261854,,no_listed_promo,False
+2026-04-13,2026,New York Mets,1,52838,50629.91738569316,2208.0826143068407,Hello Kitty Hoodie,pop_culture,False
+2026-04-14,2026,New York Mets,2,48138,52230.02319476218,-4092.0231947621796,Healthcare Appreciation Night,ticket_package_night,False
+2026-04-15,2026,New York Mets,3,50909,51646.41441389881,-737.4144138988122,Jackie Robinson Day Jersey,apparel_other,False
+2026-04-24,2026,Chicago Cubs,5,53733,53237.11679850946,495.883201490542,Dodgers Date Night,ticket_package_night,False
+2026-04-25,2026,Chicago Cubs,6,53397,51713.916009097746,1683.0839909022543,Roki Sasaki Bobblehead,star_bobblehead,True
+2026-04-26,2026,Chicago Cubs,0,52060,50740.417763075464,1319.5822369245361,,no_listed_promo,False
+2026-04-27,2026,Miami Marlins,1,49918,50722.257014296585,-804.2570142965851,Japanese Heritage Night,heritage_night,False
+2026-04-28,2026,Miami Marlins,2,51909,52423.80247826785,-514.8024782678476,Women's Night,ticket_package_night,False
+2026-04-29,2026,Miami Marlins,3,50555,45408.99542291006,5146.004577089938,Stadium Giveaway,apparel_other,False
+2026-05-08,2026,Atlanta Braves,5,51255,50398.716180814044,856.2838191859555,Miguel Rojas 'Game 7 Home Run' Bobblehead; Mental Health Awareness Night,role_bobblehead,True
+2026-05-09,2026,Atlanta Braves,6,50209,51085.76484631299,-876.7648463129881,Blake Snell 'Starter Series' Bobblehead,role_bobblehead,True
+2026-05-10,2026,Atlanta Braves,0,49514,48121.07573899802,1392.9242610019792,Mother's Day Tote Bag,apparel_other,False
+2026-05-11,2026,San Francisco Giants,1,44298,47952.3072526283,-3654.3072526282995,2025 World Series Replica Trophy,championship_item,False
+2026-05-12,2026,San Francisco Giants,2,50029,49063.880223447675,965.1197765523248,Ice Cube Lowrider Bobblehead,celebrity_crossover,True
+2026-05-13,2026,San Francisco Giants,3,48043,48467.74099142513,-424.74099142513296,2025 World Champions Gold Jerseys,championship_item,False
+2026-05-14,2026,San Francisco Giants,4,51048,50572.489133854564,475.510866145436,Star Wars Night,pop_culture,False
+2026-05-25,2026,Colorado Rockies,1,48778,46769.412585521924,2008.5874144780755,Dave Roberts Bobblehead,role_bobblehead,True
+2026-05-26,2026,Colorado Rockies,2,52148,49198.983690442124,2949.0163095578755,Mexican Heritage Night,heritage_night,False
+2026-05-27,2026,Colorado Rockies,3,50832,48515.9270360991,2316.0729639009005,Yoshinobu Yamamoto 'Game 7 Last Out' Bobblehead,star_bobblehead,True
+2026-05-29,2026,Philadelphia Phillies,5,50834,50276.760556717156,557.2394432828441,Alex Vesia Bobblehead,role_bobblehead,True
+2026-05-30,2026,Philadelphia Phillies,6,51794,51639.371619352925,154.62838064707466,Teoscar Hernandez 'Mr. Seeds' Bobblehead,role_bobblehead,True
+2026-05-31,2026,Philadelphia Phillies,0,50677,47925.6200055425,2751.3799944575003,Stadium Giveaway,apparel_other,False
+2026-06-05,2026,Los Angeles Angels,5,46850,51938.69118754315,-5088.691187543147,LGBTQ+ Pride Night,heritage_night,False
+2026-06-06,2026,Los Angeles Angels,6,53448,53040.917772263056,407.08222773694433,Tyler Glasnow 'Starter Series' Bobblehead,role_bobblehead,True
+2026-06-07,2026,Los Angeles Angels,0,49535,49489.63436880757,45.36563119242783,"Kids Run the Bases, Pups in the Park",family_day,False
+2026-06-15,2026,Tampa Bay Rays,1,53911,50295.970705068146,3615.0292949318537,Filipino Heritage Night,heritage_night,False
+2026-06-16,2026,Tampa Bay Rays,2,49070,52032.33469671415,-2962.334696714148,Dodgers Soccer Jersey; Taco Tuesday,apparel_other,False
+2026-06-17,2026,Tampa Bay Rays,3,50705,45004.24499493158,5700.755005068422,,no_listed_promo,False
+2026-06-19,2026,Baltimore Orioles,5,51939,52270.94752872113,-331.9475287211317,Mookie Betts 'Game 7 Double Play' Bobblehead,star_bobblehead,True
+2026-06-20,2026,Baltimore Orioles,6,50538,53423.844944227945,-2885.8449442279452,Shaquille O'Neal Bobblehead,celebrity_crossover,True
+2026-06-21,2026,Baltimore Orioles,0,50215,49632.1998054122,582.8001945877986,Father's Day UNIQLO T-Shirt; Kids Run the Bases; Viva Los Dodgers,apparel_other,False
+2026-07-02,2026,San Diego Padres,4,54081,52034.42401202099,2046.575987979013,One Piece Night Hat; Drone Show,pop_culture,False
+2026-07-03,2026,San Diego Padres,5,49578,51519.56219459925,-1941.5621945992534,Moana Drone Show,pop_culture,False
+2026-07-04,2026,San Diego Padres,6,52284,52714.99857388129,-430.9985738812902,America's 250 Coin; Fireworks; Picnic Blanket,fireworks_holiday,False
+2026-07-05,2026,San Diego Padres,0,46506,51498.180789747414,-4992.180789747414,,no_listed_promo,False
+2026-07-06,2026,Colorado Rockies,1,48245,48803.708059028555,-558.708059028555,Freddie Freeman '18th Inning Walk-Off' Bobblehead,star_bobblehead,True
+2026-07-07,2026,Colorado Rockies,2,47806,50412.71645634738,-2606.716456347378,Hawaiian Shirt Night,apparel_other,False
+2026-07-08,2026,Colorado Rockies,3,49996,49728.859968979166,267.1400310208337,Shohei Ohtani 'Greatest Game' Bobblehead Part 2,star_bobblehead,True
+2026-07-10,2026,Arizona Diamondbacks,5,47727,51335.82345347311,-3608.823453473109,Black Heritage Night,heritage_night,False
+2026-07-11,2026,Arizona Diamondbacks,6,48102,51799.41014373896,-3697.410143738962,Son Heung-min Bobblehead,celebrity_crossover,True
+2026-07-12,2026,Arizona Diamondbacks,0,47967,48629.5814907976,-662.5814907976019,Kike Hernandez Pitching Bobblehead; Kids Run the Bases; Viva Los Dodgers,role_bobblehead,True
+2026-07-28,2026,Seattle Mariners,2,51686,50539.34094571447,1146.6590542855265,2025 World Series Player Rings; Taco Tuesday,championship_item,False
+2026-07-29,2026,Seattle Mariners,3,46065,49730.92142030359,-3665.921420303588,Edwin Diaz Bobblehead,role_bobblehead,True
+2026-07-30,2026,Seattle Mariners,4,52378,51908.4691750684,469.53082493160036,Guatemalan Heritage Night,heritage_night,False
+2026-07-31,2026,Boston Red Sox,5,47903,51382.09403764412,-3479.0940376441213,Kyle Tucker Bobblehead,star_bobblehead,True
+2026-08-01,2026,Boston Red Sox,6,49291,51504.40172648236,-2213.4017264823633,Drone Show,fireworks_holiday,False
+2026-08-02,2026,Boston Red Sox,0,46834,51328.532255781975,-4494.5322557819745,,no_listed_promo,False
+2026-08-10,2026,Kansas City Royals,1,51799,48162.11730092327,3636.8826990767266,Max Muncy 'Game 7 Home Run' Bobblehead,role_bobblehead,True
+2026-08-11,2026,Kansas City Royals,2,49958,49683.86263883963,274.13736116037035,Salvadoran Heritage Night,heritage_night,False
+2026-08-12,2026,Kansas City Royals,3,47578,48809.239930210824,-1231.2399302108242,Hello Kitty And Friends Night,pop_culture,False
+2026-08-13,2026,Milwaukee Brewers,4,46105,51713.4729542726,-5608.472954272598,Korean Heritage Night,heritage_night,False
+2026-08-14,2026,Milwaukee Brewers,5,47066,50815.15502605962,-3749.1550260596196,Clayton Kershaw Bobblehead,star_bobblehead,True
+2026-08-15,2026,Milwaukee Brewers,6,47767,49596.58016682572,-1829.580166825719,Reggie Smith 'Legends of Dodger Baseball' Bobblehead,legend_bobblehead,True
+2026-08-16,2026,Milwaukee Brewers,0,45828,48418.94331987584,-2590.9433198758416,Kids Run the Bases; Viva Los Dodgers,family_day,False
+2026-08-21,2026,Pittsburgh Pirates,5,51872,51019.02127020585,852.9787297941511,Luka Doncic Bobblehead,celebrity_crossover,True
+2026-08-22,2026,Pittsburgh Pirates,6,53417,49888.632505445756,3528.3674945542443,Shohei Ohtani 'Starter Series' Bobblehead,star_bobblehead,True
+2026-08-23,2026,Pittsburgh Pirates,0,44092,48541.77481437907,-4449.774814379067,UNIQLO Sunglasses; Kids Run the Bases; Viva Los Dodgers,apparel_other,False
+2026-09-01,2026,St. Louis Cardinals,2,44593,49287.44108061829,-4694.441080618293,LA Kings Night,pop_culture,False
+2026-09-02,2026,St. Louis Cardinals,3,45900,48773.75366759972,-2873.753667599718,2025 World Series Ohtani Ring,championship_item,False
+2026-09-03,2026,St. Louis Cardinals,4,45150,50640.06294361146,-5490.062943611461,Lakers Night,pop_culture,False
+2026-09-04,2026,Washington Nationals,5,49847,49710.18602616185,136.81397383815056,Dodgers Date Night,ticket_package_night,False
+2026-09-05,2026,Washington Nationals,6,52785,50761.29073396804,2023.7092660319613,Yoshinobu Yamamoto 'Starter Series' Bobblehead; Union Night,star_bobblehead,True
+2026-09-06,2026,Washington Nationals,0,54211,51278.32063417592,2932.6793658240786,'The Catch' Bobblehead ft. Andy Pages and Kike Hernandez,role_bobblehead,True
+2026-09-07,2026,Cincinnati Reds,1,50293,46291.439281501254,4001.5607184987457,First Responders Night,ticket_package_night,False
+2026-09-08,2026,Cincinnati Reds,2,48439,49506.841515485394,-1067.8415154853938,Dia de Los Dodgers; Taco Tuesday,heritage_night,False
+2026-09-09,2026,Cincinnati Reds,3,45252,48968.97439877845,-3716.974398778453,Nurses Night,ticket_package_night,False
+2026-09-18,2026,San Francisco Giants,5,48145,49429.058384146934,-1284.0583841469343,,no_listed_promo,False
+2026-09-19,2026,San Francisco Giants,6,47410,49827.0791698471,-2417.0791698471003,La Gran Fiesta,heritage_night,False
+2026-09-20,2026,San Francisco Giants,0,48085,46956.43407635178,1128.565923648217,Decorte Trading Card; Kids Run the Bases; Faith and Family Day,family_day,False
+2026-09-22,2026,San Diego Padres,2,46066,49104.03034200435,-3038.030342004349,2025 World Series Kershaw Ring; Taco Tuesday,championship_item,False
+2026-09-23,2026,San Diego Padres,3,48201,48567.83087171008,-366.8308717100808,,no_listed_promo,False
+2026-09-24,2026,San Diego Padres,4,53027,50403.369259285966,2623.630740714034,Godzilla Minus Zero Night; Drone Show,pop_culture,False

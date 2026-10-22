@@ -1,0 +1,36 @@
+feature,MAE_increase_if_removed,spread,team,model
+start_hour,702.0,177.0,dodgers,baseline
+day_of_week,477.0,123.0,dodgers,baseline
+month,320.0,134.0,dodgers,baseline
+team_win_pct_pre,69.0,33.0,dodgers,baseline
+opp_win_pct_pre,23.0,38.0,dodgers,baseline
+cloud_cover,14.0,6.0,dodgers,baseline
+season,0.0,0.0,dodgers,baseline
+is_doubleheader,0.0,0.0,dodgers,baseline
+temp_f,-5.0,3.0,dodgers,baseline
+wind_mph,-5.0,3.0,dodgers,baseline
+humidity,-29.0,34.0,dodgers,baseline
+start_hour,641.0,173.0,dodgers,+ opp_draw
+day_of_week,435.0,135.0,dodgers,+ opp_draw
+month,362.0,125.0,dodgers,+ opp_draw
+team_win_pct_pre,68.0,23.0,dodgers,+ opp_draw
+opp_win_pct_pre,18.0,29.0,dodgers,+ opp_draw
+temp_f,5.0,5.0,dodgers,+ opp_draw
+wind_mph,1.0,3.0,dodgers,+ opp_draw
+season,0.0,0.0,dodgers,+ opp_draw
+is_doubleheader,0.0,0.0,dodgers,+ opp_draw
+opp_draw,-0.0,93.0,dodgers,+ opp_draw
+humidity,-7.0,47.0,dodgers,+ opp_draw
+cloud_cover,-35.0,10.0,dodgers,+ opp_draw
+day_of_week,2476.0,383.0,angels,+ opp_draw
+start_hour,1023.0,239.0,angels,+ opp_draw
+opp_draw,983.0,202.0,angels,+ opp_draw
+humidity,182.0,80.0,angels,+ opp_draw
+month,122.0,73.0,angels,+ opp_draw
+team_win_pct_pre,115.0,38.0,angels,+ opp_draw
+cloud_cover,23.0,32.0,angels,+ opp_draw
+wind_mph,16.0,50.0,angels,+ opp_draw
+season,0.0,0.0,angels,+ opp_draw
+is_doubleheader,0.0,0.0,angels,+ opp_draw
+opp_win_pct_pre,-12.0,80.0,angels,+ opp_draw
+temp_f,-18.0,47.0,angels,+ opp_draw

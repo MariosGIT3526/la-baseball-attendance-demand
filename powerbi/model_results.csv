@@ -1,0 +1,13 @@
+model,MAE,team,features
+Baseline (2025 avg),2315.0,dodgers,baseline
+Linear Regression,2165.0,dodgers,baseline
+Gradient Boosting,2515.0,dodgers,baseline
+Baseline (2025 avg),2315.0,dodgers,+ opp_draw
+Linear Regression,2321.0,dodgers,+ opp_draw
+Gradient Boosting,2368.0,dodgers,+ opp_draw
+Baseline (2025 avg),5747.0,angels,baseline
+Linear Regression,4997.0,angels,baseline
+Gradient Boosting,4215.0,angels,baseline
+Baseline (2025 avg),5747.0,angels,+ opp_draw
+Linear Regression,4380.0,angels,+ opp_draw
+Gradient Boosting,4358.0,angels,+ opp_draw
